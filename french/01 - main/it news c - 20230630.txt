@@ -1,0 +1,17 @@
+[*name
+bibleAddedScoringSystem
+[*date
+20230630
+[*title
+Aggiunto un sistema di punteggio
+[*content
+Guadagna punti di GRAZIA e di FEDE, giocando!
+
+[*name
+bibleGame2released
+[*date
+20230510
+[*title
+Aggiunto un secondo gioco: "Blocca la palla!"
+[*content
+Gioca per scoprire la frase del giorno!
