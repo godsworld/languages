@@ -1,0 +1,112 @@
+﻿1
+00:00:00,320 --> 00:00:04,335
+Jak zainstalować MetaMask
+na smartfonie/tablecie?
+
+2
+00:00:04,413 --> 00:00:09,132
+Otwórz "Play Store" lub "App Store"
+jeśli używasz iPhone'a/iPad'a
+
+3
+00:00:09,499 --> 00:00:12,458
+W polu "szukaj..."
+napisz: "MetaMask"
+
+4
+00:00:16,645 --> 00:00:20,650
+Zainstaluj
+
+5
+00:00:20,675 --> 00:00:25,229
+potem: "Otwórz"
+
+6
+00:00:29,474 --> 00:00:33,216
+Wybierz: "Get started" (Zacznij)
+
+7
+00:00:33,388 --> 00:00:38,723
+Tym razem wybierzemy "Import.." (Importuj)
+ponieważ chcemy mieć
+
+8
+00:00:38,748 --> 00:00:43,652
+ten sam adres publiczny
+co na komputerze, prawda? :)
+
+9
+00:00:43,840 --> 00:00:47,849
+Tutaj wpisz 12 angielskich słów,
+które otrzymałeś/łaś
+
+10
+00:00:47,874 --> 00:00:52,091
+instalując MetaMask na komputerze
+
+11
+00:00:52,404 --> 00:00:57,885
+Możesz wybrać: "Enable..." (Pozwól...)
+
+12
+00:00:59,903 --> 00:01:03,668
+"No, thanks" (Nie, dziękuję)
+
+13
+00:01:04,169 --> 00:01:10,428
+Teraz możesz zobaczyć, że to ten sam
+adres publiczny co na komputerze
+
+14
+00:01:12,154 --> 00:01:18,818
+Naciśnij przycisk "Browser" (Przeglądarka)
+
+15
+00:01:19,834 --> 00:01:27,388
+W polu adresów wpisz teraz
+adres naszej strony:
+
+16
+00:01:27,444 --> 00:01:37,125
+www.god-s-world.net
+
+17
+00:01:44,256 --> 00:01:46,669
+Zatwierdź wciskając "Enter"
+na wirtualnej klawiaturze
+
+18
+00:01:48,345 --> 00:01:56,785
+Wybierz "Wejdź"
+a potem "Zapisz się poprzez MetaMask"
+
+19
+00:01:58,407 --> 00:02:02,689
+"Connect" (Połącz)
+
+20
+00:02:04,707 --> 00:02:08,986
+"Sign" (Podpisz)
+
+21
+00:02:11,427 --> 00:02:15,587
+Teraz na dole możesz zobaczyć
+pierwsze i ostatnie znaki
+
+22
+00:02:15,612 --> 00:02:18,669
+twojego adresu publicznego
+
+23
+00:02:19,203 --> 00:02:23,875
+Tu widzisz je u góry strony.
+Od teraz Twoje wyniki będą zapisane
+
+24
+00:02:24,219 --> 00:02:26,617
+Udało się, gratulacje!
+
+25
+00:02:26,859 --> 00:02:28,843
+Miłej zabawy!
+

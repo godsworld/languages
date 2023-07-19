@@ -1,0 +1,127 @@
+﻿1
+00:00:00,001 --> 00:00:03,310
+Oto przewodnik "Jak zainstalować
+MetaMask na komputerze"
+
+2
+00:00:03,335 --> 00:00:09,179
+Kliknij na "Wejdź", a potem wybierz:
+"Zarejestruj się poprzez MetaMask"
+
+3
+00:00:11,711 --> 00:00:17,937
+"Add to Chrome" (Dodaj do Chrome) --
+-->  "Dodaj rozszerzenie"
+
+4
+00:00:28,908 --> 00:00:32,824
+"Create a new wallet"
+(Utwórz nowy portfel)
+
+5
+00:00:32,849 --> 00:00:35,338
+"I agree" (Zgadzam się)
+
+6
+00:00:35,363 --> 00:00:41,080
+Wybierz hasło z którym będziesz
+logować się do MetaMask
+
+7
+00:00:41,105 --> 00:00:44,682
+Kliknij na napisie: "I understand that
+Metamask..." (Rozumiem, że MetaMask...)
+
+8
+00:00:44,707 --> 00:00:47,232
+ "Create a new wallet"
+(Utwórz nowy portfel)
+
+9
+00:00:48,366 --> 00:00:52,554
+"Secure my wallet (recommended)"
+(Zabezpiecz mój portfel (zelecane))
+
+10
+00:00:52,579 --> 00:00:55,653
+"Pokaż słowa seed"
+
+11
+00:00:56,591 --> 00:01:01,327
+Przepisz na kartkę 12 słów po angielsku
+i przechowuj ją w bezpiecznym miejscu
+
+12
+00:01:01,352 --> 00:01:06,298
+To jest twoje "hasło"
+do wirtualnego portfela (nie do MetaMask)
+
+13
+00:01:06,323 --> 00:01:09,651
+Będzie Ci potrzebne
+jeśli przypadkiem zgubisz hasło do MetaMask
+
+14
+00:01:09,676 --> 00:01:12,789
+lub chcesz używać tego samego adresu
+na smartfonie/tablecie
+
+15
+00:01:12,871 --> 00:01:15,485
+"Dalej"
+
+16
+00:01:15,687 --> 00:01:23,385
+Potwierdź niektóre ze słów,
+które właśnie zapisałeś
+
+17
+00:01:31,925 --> 00:01:34,357
+"Potwierdź"
+
+18
+00:01:35,767 --> 00:01:44,720
+"Got it" (Zrozumiałem)  -->  "Dalej" --
+-->  "Gotowe"
+
+19
+00:01:45,095 --> 00:01:51,552
+U góry możesz zobaczyć pierwsze i ostatnie
+znaki twojego klucza publicznego
+
+20
+00:01:52,200 --> 00:01:58,309
+Powróć na naszą stronę i odśwież ją
+
+21
+00:01:59,224 --> 00:02:04,780
+"Wejdź"
+-->  "Zarejestruj się poprzez MetaMask"
+
+22
+00:02:05,361 --> 00:02:11,091
+"Dalej"  -->  "Połącz"
+
+23
+00:02:14,002 --> 00:02:18,728
+"Podpisz"
+
+24
+00:02:24,199 --> 00:02:28,476
+W lewym dolnym rogu ekranu
+zobaczysz zielony napis:
+
+25
+00:02:28,501 --> 00:02:32,832
+to pierwsze i ostatnie znaki
+twojego adresu publicznego
+
+26
+00:02:33,010 --> 00:02:37,937
+Od teraz Twoje postępy bedą zapisane
+w bazie danych naszego projektu
+
+27
+00:02:38,736 --> 00:02:42,789
+Miłej zabawy!
+
