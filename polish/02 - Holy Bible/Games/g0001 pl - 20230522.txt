@@ -1,0 +1,45 @@
+*** GW_USER INTERFACE ***
+
+item: "bible_g0001_info_title"          caption: "INSTRUKCJE"
+item: "bible_g0001_info_ta_theGoal"     content: "Klikaj na literach, żeby je przesuwać."
+item: "bible_g0001_info_ta_esc"         content: "Wyjdź z gry."
+item: "bible_g0001_info_ta_spacebar"    content: "Otrzymaj pomoc."
+item: "bible_g0001_info_ta_backSpace"   content: "Wycofaj ostatnią, nieprawidłową literę."
+item: "bible_g0001_info_ta_useKeyboard" content: "Jeśli grasz na komputerze, możesz także używać klawiatury."
+
+item: "bible_g0001_play_btnFinish" caption: "Zakończ"
+
+
+*** TRANSLATIONS ***
+
+// MENU
+[*book
+księga
+
+[*chapter
+rozdział
+
+[*difficulty
+Poziom trudności
+[*difficultyEasy
+łatwy
+[*difficultyMedium
+średni
+[*difficultyHard
+trudny
+[*
+
+[*goToContent
+Gdy odgadniesz Słowo na dziś (grając w drugą grę), klikając na ten przycisk, księga i rozdział zostaną ustawione na miejsce w Piśmie Świętym, gdzie znajduje się odkryty cytat.
+[*settingsTitle
+PRĘDKOŚĆ POJAWIANIA SIĘ NOWYCH LITER
+[*
+
+// PLAY
+
+[*Quitting
+Na pewno chcesz wyjść?<br>Twój postęp nie będzie zapisany.
+[*AllGuessedTitle
+GRATULACJE
+[*AllGuessedContent
+Przeczytałeś/łaś cały rozdiał!
