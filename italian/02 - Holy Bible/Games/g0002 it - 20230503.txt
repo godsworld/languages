@@ -1,0 +1,43 @@
+*** USER INTERFACE ***
+
+item: "bible_g0002_menu_quoteTitle"      caption: "La Parola del giorno:"
+item: "bible_g0002_menu_difficultyTitle" caption: "Difficoltà:"
+item: "bible_g0002_menu_playTitle"       caption: "Gioca!"
+
+item: "bible_g0002_info_title"        caption: "ISTRUZIONI"
+item: "bible_g0002_info_ta_theGoal"   content: "Lo scopo del gioco:<br>La palla deve distruggere tutti i mattoncini con delle lettere."
+item: "bible_g0002_info_ta_howToPlay" content: "Piazza questi mattoncini su dei spazi vuoti per bloccare la palla. Clicca su di essi per rimuoverli."
+
+text: "bible_g0002_menu_quoteGuessed" font: "Times New Roman"
+text: "bible_g0002_showQuote_content" font: "Times New Roman"
+
+*** TRANSLATIONS ***
+
+// MENU
+
+[*menuPlayToDiscover
+Gioca per scoprirla!
+[*timeInfo
+La prossima "Parola del giorno" si rinnoverà fra (ore:minuti):
+[*quoteCopiedToClipboard
+La citazione copiata negli appunti!
+[*
+
+// PLAY
+
+[*ClickAnywhereToStart
+Clicca dove vuoi per iniziare!
+[*GameOver
+Il tempo è scaduto e non ci sono altre prove.<br>Vuoi iniziare da capo?
+[*GuessLastCharGuide
+Prova a indovinare l'ultima lettera della parola che hai appena scoperto.
+[*Quitting
+Sei sicuro di voler uscire?<br><br>Il tuo progresso non sarà salvato.
+[*TimeOut_manyAttempts
+Il tempo è scaduto!<br>Hai ancora ** possibilità.<br><br>Vuoi riprovare?
+[*TimeOut_oneAttempt
+Il tempo è scaduto!<br>Questa è la tua ultima possibilità.<br><br>Vuoi riprovare?
+[*TimeOut_noMoreAttempts
+Il tempo è scaduto!<br><br>Vuoi riprovare a scoprire la Parola del giorno da capo?
+[*btnCopyExplanation
+Puoi copiare questa citazione negli appunti cliccando su questo pulsante:
