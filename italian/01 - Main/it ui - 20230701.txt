@@ -1,0 +1,252 @@
+*** FILES ***
+
+[*fileNewsC
+it news c - 20230630
+[*fileNewsP
+it news p - 20230630
+[*fileHelpAbout
+_it about - 20230602
+[*fileHelpUserInfo
+it user information - 20230602
+[*fileHelpUserSettings
+it user settings - 20230602
+[*fileHelpUserSignUp
+it user sign up methods - 20230602
+[*fileHelpUserScoringSystem
+it user scoring system - 20230602
+[*fileHelpDonate
+it donations - 20230602
+[*fileHelpDonateInfo
+it donations check out - 20230602
+[*
+
+*** USER INTERFACE ***
+
+image: "main_title" src: "gw main/img/lang/it title - 20230601.png"
+
+item: "main_userDataLoading_ta" content: "Caricamento dati utente..."
+
+item: "main_controlBox_abandonL" caption: "Abbandona"
+item: "main_controlBox_abandon"  caption: "Abbandona"
+item: "main_controlBox_close"    caption: "Chiudi"
+item: "main_controlBox_confirm"  caption: "Conferma"
+item: "main_controlBox_gotIt"    caption: "Ho capito"
+item: "main_controlBox_no"       caption: "No"
+item: "main_controlBox_ok"       caption: "Ok"
+item: "main_controlBox_prev"     caption: "Indietro"
+item: "main_controlBox_proceed"  caption: "Avanti"
+item: "main_controlBox_yes"      caption: "Sì"
+
+item: "main_infoBox_btnGotIt" caption: "Ho capito"
+item: "main_infoBox_btnClose" caption: "Chiudi"
+
+item: "main_userInfo_btnTitle"      caption: "Informazioni sull'utente"
+item: "main_userInfo_notLoggedIn"   caption: "Utente non registrato"
+item: "main_userInfo_notVerified"   caption: "L'e-mail non verificata!"
+item: "main_userInfo_graceTitle"    caption: "GRAZIA"
+item: "main_userInfo_faithTitle"    caption: "FEDE"
+item: "main_userInfo_timeLeftTitle" caption: "TEMPO"
+
+item: "main_userSettings_btnTitle"        caption: "Impostazioni"
+item: "main_userSettings_denomTitle"      caption: "Versione del sito:"
+item: "main_userSettings_dateFormatTitle" caption: "Formato della data:"
+
+item: "main_menuLang_other" caption: "altre lingue..."
+item: "main_menuLang_otherInfo_content" content: "Se vuoi aiutarci a tradurre questo sito in qualche altra lingua, per favore contatta:"
+item: "main_menuLang_otherInfo_link" info: "discord.gg/tFfBGMafnk"
+
+item: "main_menuLogIn_btnTitle"        caption: "Iscriviti / Accedi"
+item: "main_menuLogIn_signUp"          caption: "Iscriviti"
+item: "main_menuLogIn_signUp_email"    caption: "Iscriviti con un'e-mail"
+item: "main_menuLogIn_signUp_metamask" caption: "Iscriviti con MetaMask"
+item: "main_menuLogIn_logIn"           caption: "Accedi"
+item: "main_menuLogIn_logIn_email"     caption: "Accedi con un'e-mail"
+item: "main_menuLogIn_logIn_metamask"  caption: "Accedi con MetaMask"
+item: "main_menuLogIn_resendEmailVer"  caption: "E-mail di verifica"
+item: "main_menuLogIn_logOut"          caption: "Disconnetti"
+item: "main_menuLogIn_back"            caption: "Indietro"
+
+item: "main_userFaithGraph_faith"  caption: "FEDE"
+item: "main_userFaithGraph_graceA" caption: "GRAZIA (gioco 1)"
+item: "main_userFaithGraph_graceB" caption: "GRAZIA (gioco 2)"
+
+item: "main_userSignUp_email"        caption: "Il tuo indirizzo e-mail:" 
+item: "main_userSignUp_passw"        caption: "Scegli una password:"
+item: "main_userSignUp_passwConfirm" caption: "Conferma la password:"
+item: "main_userSignUp_isShowPassw"  caption: "Mostra le password"
+
+item: "main_userLogIn_email"       caption: "L'indirizzo e-mail:" 
+item: "main_userLogIn_passw"       caption: "La password:"
+item: "main_userLogIn_isShowPassw" caption: "Mostra la password"
+
+item: "main_userSelectDenom_content" content: "[*centerV,center*]Scegli la versione di questo sito web...<br><br>(puoi cambiarla quando vuoi)"
+item: "main_userSelectDenom_rbCath"  caption: "Versione cattolica"
+item: "main_userSelectDenom_rbProt"  caption: "Versione protestante"
+
+item: "main_menuInfo_socialMedia" caption: "Social media"
+item: "main_menuInfo_donate"      caption: "Contribuisci"
+item: "main_menuInfo_about"       caption: "Informazioni"
+
+item: "main_socialMedia_ta_youtube"   content: "Guarda una breve presentazione di questo proggetto e altri filmati utili<br>(attiva i sottotitoli in italiano)"
+item: "main_socialMedia_link_discord" info:    "discord.gg/tFfBGMafnk"
+item: "main_socialMedia_ta_discord"   content: "Mettiti in contatto con gli autori del sito oppure con altri utenti"
+
+redraw: "main_donate_selectMethod_btnCryptoTxt" caption: "Criptovaluta"
+redraw: "main_donate_selectMethod_btnCryptoSubtitleTxt" caption: "consigliato"
+item: "main_donate_selectMethod_btnDonatedInfo" caption: "mostra le donazioni"
+
+item: "main_donate_donatedInfo_title" caption: "Le crypto donate:"
+item: "main_donate_donatedInfo_btnVerify" caption: "verifica"
+
+item:   "main_menuEnter_menu"           caption: "Entra"
+redraw: "main_menuEnter_guestTitle"     caption: "Entra senza registrarsi"
+redraw: "main_menuEnter_guestSubtitle"  caption: "Il tuo progresso NON sarà salvato"
+redraw: "main_menuEnter_emailTitle"     caption: "Iscriviti con un'indirizzo e-mail"
+redraw: "main_menuEnter_emailSubtitle"  caption: "Il tuo progresso sarà salvato"
+redraw: "main_menuEnter_walletUptitle"  caption: "Consigliato"
+redraw: "main_menuEnter_walletTitle"    caption: "Iscriviti con MetaMask"
+redraw: "main_menuEnter_walletSubtitle" caption: "Il progresso sarà salvato. Massimo della privacy."
+item:   "main_menuEnter_back"           caption: "Indietro"
+
+
+*** TRANSLATIONS ***
+
+[*userMenu_user
+Utente
+[*userInfo_startedToPlay
+Inizio
+[*userInfo_daysPlayed
+Giorni giocati
+[*userInfo_faithMax
+Massimo della FEDE
+[*
+
+[*userStats_dayStarted
+Iniziato il
+[*userStats_lastDayPlayed
+L'ultimo giorno giocato:
+[*userStats_daysPlayed
+Totale giorni
+[*userStats_daysPlayedEffective
+Giorni attivi
+[*userStats_faithMax
+Massimo della FEDE
+[*userStats_noData
+---
+[*userStats_info
+Giorni attivi:<br><br>giorni nei quali hai guadagnato punti di GRAZIA.
+[*
+
+[*user_faithGraph_noData
+Quando avrai guadagnato punti di GRAZIA e punti di FEDE, potrai vedere qui il tuo progresso.
+[*
+
+[*userSettings_denomCatholic
+cattolica
+[*userSettings_denomProtestant
+protestante
+[*userSettings_selectDenomInfo
+Dalla tua scelta dipende il contenuto che vedrai in questo sito.
+Principlamente, ma non solo, si tratta della traduzione della Bibbia che viene usata.<br>Anche se ci sono diverse versioni della Sacra Bibbia, il messaggio centrale della Parola di Dio rimane essenzialmente lo stesso.
+[*
+
+[*userSelectDateFormat_content
+Scegli il formato della data:
+[*userSelectDateFormat_dmy
+giorno/mese/anno
+[*userSelectDateFormat_mdy
+mese/giorno/anno
+[*userSelectDateFormat_ymd
+anno/mese/giorno
+[*
+
+[*userSignUp_title
+ISCRIZIONE
+[*userSignUp_signingUp
+Iscrizione in corso...
+[*userSignUp_emailVerSent
+Per completare la registrazione (e perchè il tuo progresso sia salvato) clicca sul link nella e-mail che ti abbiamo spedito.<br><br>Se per caso non la trovi, prova nella cartella "posta indesiderata" (spam).
+[*
+
+[*errInvalidEmailFormat
+L'indirizzo e-mail non valido!
+[*errPasswordTooShort
+La password è troppo corta (min. 6 caratteri)!
+[*errPasswordsNotEqual
+Le due password non sono uguali!
+[*errSigningUp
+Non è possibile registrarsi.
+[*errSigningUpEmailAlreadyInUse
+L'indirizzo e-mail già in uso.
+[*errSendingEmailVer
+Non è possibile spedire un'e-mail di verifica!
+[*
+
+[*signUpMetamask_title
+ISCRIZIONE CON IL "METAMASK"
+[*signUpMetamask_notPresent
+MetaMask non rivelato...<br>Vuoi installarlo?"
+[*signUpMetamask_signingUp
+Iscrizione in corso...
+[*signUpMetamask_userExists
+L'utente è già iscritto, l'accesso in corso...
+[*signUpMetamask_acceptRequest
+Accetta la richiesta nella finestra di MetaMask, per favore.
+[*signUpMetamask_singingInError
+Spiacente, non è possibile accedere.
+[*signUpMetamask_verifyingError
+Errore durante la verifica!
+[*signUpMetamask_customTokenError
+Errore "custom token"!
+[*
+
+[*logInMetamask_title
+ACCESSO CON "METAMASK"
+[*logInMetamask_loggingIn
+L'accesso in corso...
+[*logInMetamask_loggingInError
+Spiacente, non è possibile accedere.
+[*
+
+[*logInTitle
+ACCESSO
+[*loggingIn
+L'accesso in corso...
+[*errLoggingIn
+L'E-mail e la password non corrispondono!
+[*errLoggingInTooManyRequests
+Troppo accessi nell'ultima ora, per favore, riprova fra pochi minuti. 
+[*
+
+[*resendEmailVerContent
+Spedire di nuovo un'e-mail di verifica?
+[*
+
+[*userLogOut_content
+Sei sicuro di voler disconnetterti?
+[*
+
+[*newsTitleBig
+NOVITÀ
+
+[*socialMediaTitle
+SOCIAL MEDIA
+[*
+
+[*donate_title
+CONTRIBUISCI
+[*donate_main
+Caro fratello / cara sorella, puoi usare questo sito totalmente gratis. Se vuoi dirci ˝Grazie˝ e contribuire alla manutenzione e allo sviluppo di questo proggetto, puoi farlo qui.<br><br>Il Signore ti ricompensi!
+[*donate_selectMethod
+Scegli il metodo di pagamento:
+[*donate_crypto_title
+Clicca sul nostro inidirizzo pubblico per copiarlo negli appunti:
+[*donate_crypto_addressCopied
+L'inidirizzo è stato copiato negli appunti!
+[*donate_crypto_content
+Invia solo BUSD (BEP20) sulla blockchain di Binance (Binance Smart Chain), per favore.<br><br>Il Signore ti ricompensi!
+[*
+
+[*EmailNotVerified
+E-mail non verificata!
+[*
