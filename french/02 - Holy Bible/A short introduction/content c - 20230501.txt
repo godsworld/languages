@@ -1,0 +1,99 @@
+[*justify,auto-indent0.05*]Le mot [*c1*]Bible[*n*] vient du mot grec [*i*]βιβλία[*n*] biblìa, qui signifie « livres ». Dans un passé très lointain, en fait, ces livres, qui font aujourd’hui partie d’un seul livre, étaient des livres (et des lettres) séparés.
+
+La Sainte Bible est divisée en deux parties principales: [*b*]Ancien Testament[*n*] (contiene 46 libri) et [*b*]Nouveau Testament[*n*] (27 livres).
+L’Ancien Testament parle de la création du monde, des premiers hommes, des premiers patriarches, de l’histoire du peuple élu (Israël) et de ses prophètes, jusqu’à la venue de Jésus.
+Le Nouveau Testament raconte plutôt l’histoire de Jésus-Christ, Fils de Dieu, et des premiers croyants en lui, qui ont vécu après sa mort et sa résurrection.
+
+Les auteurs de la Bible étaient environ 40 à l’avoir écrite sur une période d’environ 1500 ans.
+
+[*b*]Comment lire la Sainte Bible?[*n*]
+Certes, vous pourriez tout lire, du premier livre (Genèse) au dernier (Apocalypse), mais si pour vous c’est une expérience complètement nouvelle, après un certain temps vous pourriez vous décourager, en tombant sur les passages difficiles à comprendre (et il y en a plusieurs), pour cette raison, nous vous proposons de ne lire au début que ces livres, qui sont les plus faciles à comprendre, souvent très courts,  Et ils n’ont pas besoin d’avoir lu le livre qui vient en premier pour comprendre le contexte:
+De l’Ancien Testament: Livre de Ruth (4 chapitres), Livre de Jonas (4 chapitres), Livre de Tobit (14 chapitres).
+De Nouveau Testament: Évangile selon Marc (C’est le plus court des quatre évangiles: 16 chapitres), et immédiatement après: Actes des Apôtres (28 chapitres).
+
+Chaque livre de la Bible est divisé en chapitres et versets, et pour les indiquer, des abravissements sont utilisés. En voici quelques exemples:[*m*]
+[*left,auto-indent0.001*]
+[*mb*]Gn:[*m*]       Livre de la Genèse.
+[*mb*]1S 3:[*m*]     Premier livre de Samuel, chapitre 3
+[*mb*]Mc 5,3-9:[*m*] Évangile selon Marc, chapitre 5, versets 3 à 9
+[*n*]
+Tous les acronymes:
+
+[*b*]ANCIEN TESTAMENT
+
+[*mb*]Gn:[*m*]    Livre de la Genèse
+[*mb*]Ex:[*m*]    Livre de l'Exode
+[*mb*]Lv:[*m*]    Lévitique
+[*mb*]Nb:[*m*]    Livre des Nombres
+[*mb*]Dt:[*m*]    Deutéronome
+[*mb*]Js:[*m*]    Livre de Josué
+[*mb*]Jg:[*m*]    Livre des Juges
+[*mb*]Rt:[*m*]    Livre de Ruth
+[*mb*]1S:[*m*]    Premier livre de Samuel
+[*mb*]2S:[*m*]    Deuxième livre de Samuel
+[*mb*]1R:[*m*]    Premier livre des Rois
+[*mb*]2R:[*m*]    Deuxième livre des Rois
+[*mb*]1Ch:[*m*]   Premier livre des Chroniques
+[*mb*]2Ch:[*m*]   Deuxième livre des Chroniques
+[*mb*]Esd:[*m*]   Livre d'Esdras
+[*mb*]Ne:[*m*]    Livre de Néhémie
+[*mb*]Tb:[*m*]    Livre de Tobit
+[*mb*]Jdt:[*m*]   Livre de Judith
+[*mb*]Est:[*m*]   Livre d'Esther
+[*mb*]1M:[*m*]    Premier livre des Maccabées
+[*mb*]2M:[*m*]    Deuxième livre des Maccabées
+[*mb*]Jb:[*m*]    Livre de Job
+[*mb*]Ps:[*m*]    Livre des Psaumes
+[*mb*]Pr:[*m*]    Livre des Proverbes
+[*mb*]Ec:[*m*]    Ecclésiaste
+[*mb*]Ct:[*m*]    Cantique des cantiques
+[*mb*]Sg:[*m*]    Livre de Sagesse
+[*mb*]Si:[*m*]    Livre de Siracide
+[*mb*]Es:[*m*]    Livre d'Isaïe
+[*mb*]Jr:[*m*]    Livre de Jérémie
+[*mb*]La:[*m*]    Livre des Lamentations
+[*mb*]Ba:[*m*]    Livre de Baruch
+[*mb*]Ez:[*m*]    Livre d'Ézéchiel
+[*mb*]Da:[*m*]    Livre de Daniel
+[*mb*]Os:[*m*]    Livre d'Osée
+[*mb*]Jl:[*m*]    Livre de Joël
+[*mb*]Am:[*m*]    Livre d'Amos
+[*mb*]Ab:[*m*]    Livre d'Abdias
+[*mb*]Jon:[*m*]   Livre de Jonas
+[*mb*]Mi:[*m*]    Livre de Michée
+[*mb*]Na:[*m*]    Livre de Nahum
+[*mb*]Ha:[*m*]    Livre de Habacuc
+[*mb*]So:[*m*]    Livre de Sophonie
+[*mb*]Ag:[*m*]    Livre d'Aggée
+[*mb*]Za:[*m*]    Livre de Zacharie
+[*mb*]Ma:[*m*]    Livre de Malachie
+
+[*b*]NOUVEAU TESTAMENT
+
+[*mb*]Mt:[*m*]    Évangile selon Matthieu
+[*mb*]Mc:[*m*]    Évangile selon Marc
+[*mb*]Lc:[*m*]    Évangile selon Luc
+[*mb*]Jn:[*m*]    Évangile selon Jean
+[*mb*]Ac:[*m*]    Actes des Apôtres
+[*mb*]Rm:[*m*]    Épître aux Romains
+[*mb*]1Co:[*m*]   Première épître aux Corinthiens
+[*mb*]2Co:[*m*]   Deuxième épître aux Corinthiens
+[*mb*]Ga:[*m*]    Épître aux Galates
+[*mb*]Ep:[*m*]    Épître aux Éphésiens
+[*mb*]Ph:[*m*]    Épître aux Philippiens
+[*mb*]Col:[*m*]   Épître aux Colossiens
+[*mb*]1Th:[*m*]   Première épître aux Thessaloniciens
+[*mb*]2Th:[*m*]   Deuxième épître aux Thessaloniciens
+[*mb*]1Ti:[*m*]   Première épître à Timothée
+[*mb*]2Ti:[*m*]   Deuxième épître à Timothée
+[*mb*]Tt:[*m*]    Épître à Tite
+[*mb*]Phm:[*m*]   Épître à Philémon
+[*mb*]He:[*m*]    Épître aux Hébreux
+[*mb*]Jc:[*m*]    Épître de Jacques
+[*mb*]1P:[*m*]    Première épître de Pierre
+[*mb*]2P:[*m*]    Deuxième épître de Pierre
+[*mb*]1Jn:[*m*]   Première épître de Jean
+[*mb*]2Jn:[*m*]   Deuxième épître de Jean
+[*mb*]3Jn:[*m*]   Troisième épître de Jean
+[*mb*]Jd:[*m*]    Épître de Jude
+[*mb*]Ap:[*m*]    Apocalypse
