@@ -1,0 +1,250 @@
+*** FILES ***
+
+[*fileNewsC
+en news c - 20230630
+[*fileNewsP
+en news p - 20230630
+[*fileHelpAbout
+_en about - 20230602
+[*fileHelpUserInfo
+en user information - 20230602
+[*fileHelpUserSettings
+en user settings - 20230602
+[*fileHelpUserSignUp
+en user sign up methods - 20230602
+[*fileHelpUserScoringSystem
+en user scoring system - 20230602
+[*fileHelpDonate
+en donations - 20230602
+[*fileHelpDonateInfo
+en donations check out - 20230602
+[*
+
+*** USER INTERFACE ***
+
+image: "main_title" src: "gw main/img/lang/en title - 20230601.png"
+
+item: "main_userDataLoading_ta" content: "Loading user data, please wait..."
+
+item: "main_controlBox_abandonL" caption: "Abandon"
+item: "main_controlBox_abandon"  caption: "Abandon"
+item: "main_controlBox_close"    caption: "Close"
+item: "main_controlBox_confirm"  caption: "Confirm"
+item: "main_controlBox_gotIt"    caption: "Got it"
+item: "main_controlBox_no"       caption: "No"
+item: "main_controlBox_ok"       caption: "Ok"
+item: "main_controlBox_prev"     caption: "Back"
+item: "main_controlBox_proceed"  caption: "Next"
+item: "main_controlBox_yes"      caption: "Yes"
+
+item: "main_infoBox_btnGotIt" caption: "Got it"
+item: "main_infoBox_btnClose" caption: "Close"
+
+item: "main_userInfo_btnTitle"      caption: "User information"
+item: "main_userInfo_notLoggedIn"   caption: "User not logged in"
+item: "main_userInfo_notVerified"   caption: "User's e-mail not verified!"
+item: "main_userInfo_graceTitle"    caption: "GRACE"
+item: "main_userInfo_faithTitle"    caption: "FAITH"
+item: "main_userInfo_timeLeftTitle" caption: "TIME"
+
+item: "main_userSettings_btnTitle"        caption: "Settings"
+item: "main_userSettings_denomTitle"      caption: "Website version:"
+item: "main_userSettings_dateFormatTitle" caption: "Data format:"
+
+item: "main_menuLang_other" caption: "other languages..."
+item: "main_menuLang_otherInfo_content" content: "If you want to help us to translate this website into another language, please contact:"
+item: "main_menuLang_otherInfo_link" info: "discord.gg/zdVav2ks6w"
+
+item: "main_menuLogIn_btnTitle"        caption: "Sign up / Log in"
+item: "main_menuLogIn_signUp"          caption: "Sign up"
+item: "main_menuLogIn_signUp_email"    caption: "Sign up with e-mail"
+item: "main_menuLogIn_signUp_metamask" caption: "Sign up with MetaMask"
+item: "main_menuLogIn_logIn"           caption: "Log in"
+item: "main_menuLogIn_logIn_email"     caption: "Log in with e-mail"
+item: "main_menuLogIn_logIn_metamask"  caption: "Log in with MetaMask"
+item: "main_menuLogIn_resendEmailVer"  caption: "Resend verification e-mail"
+item: "main_menuLogIn_logOut"          caption: "Log out"
+item: "main_menuLogIn_back"            caption: "Back"
+
+item: "main_userFaithGraph_faith"  caption: "FAITH"
+item: "main_userFaithGraph_graceA" caption: "GRACE (game 1)"
+item: "main_userFaithGraph_graceB" caption: "GRACE (game 2)"
+
+item: "main_userSignUp_email"        caption: "Your e-mail address:" 
+item: "main_userSignUp_passw"        caption: "Choose a password:"
+item: "main_userSignUp_passwConfirm" caption: "Confirm the password:"
+item: "main_userSignUp_isShowPassw"  caption: "Show the passwords"
+
+item: "main_userLogIn_email"       caption: "E-mail address:" 
+item: "main_userLogIn_passw"       caption: "Password:"
+item: "main_userLogIn_isShowPassw" caption: "Show the password"
+
+item: "main_userSelectDenom_content" content: "[*centerV,center*]Choose the website version...<br><br>(you can change it at any time)"
+item: "main_userSelectDenom_rbCath"  caption: "Catholic version"
+item: "main_userSelectDenom_rbProt"  caption: "Protestant version"
+
+item: "main_menuInfo_socialMedia" caption: "Social media"
+item: "main_menuInfo_donate"      caption: "Donate"
+item: "main_menuInfo_about"       caption: "About"
+
+item: "main_socialMedia_ta_youtube"   content: "Watch a short presentation of this website and some other useful videos"
+item: "main_socialMedia_link_discord" info:    "discord.gg/zdVav2ks6w"
+item: "main_socialMedia_ta_discord"   content: "Get in touch with the authors of this website and with other users"
+
+redraw: "main_donate_selectMethod_btnCryptoTxt" caption: "Cryptocurrency"
+redraw: "main_donate_selectMethod_btnCryptoSubtitleTxt" caption: "reccomended"
+item: "main_donate_selectMethod_btnDonatedInfo" caption: "show the donations"
+
+item: "main_donate_donatedInfo_title" caption: "Cryptocurrency donated:"
+item: "main_donate_donatedInfo_btnVerify" caption: "verify"
+
+item:   "main_menuEnter_menu"           caption: "Enter"
+redraw: "main_menuEnter_guestTitle"     caption: "Enter as a guest"
+redraw: "main_menuEnter_guestSubtitle"  caption: "Your progress will NOT be saved"
+redraw: "main_menuEnter_emailTitle"     caption: "Sign up with an e-mail"
+redraw: "main_menuEnter_emailSubtitle"  caption: "Your progress will be saved"
+redraw: "main_menuEnter_walletUptitle"  caption: "Recommended"
+redraw: "main_menuEnter_walletTitle"    caption: "Sign up with MetaMask"
+redraw: "main_menuEnter_walletSubtitle" caption: "Your progress will be saved. Maximum privacy."
+item:   "main_menuEnter_back"           caption: "Back"
+
+
+*** TRANSLATIONS ***
+
+[*userMenu_user
+User
+[*userInfo_startedToPlay
+Started to play
+[*userInfo_daysPlayed
+Days played
+[*userInfo_faithMax
+Maximum of FAITH
+[*
+
+[*userStats_dayStarted
+Day started
+[*userStats_lastDayPlayed
+Last day played
+[*userStats_daysPlayed
+Days played
+[*userStats_daysPlayedEffective
+Effective days played
+[*userStats_faithMax
+Maximum of FAITH
+[*userStats_noData
+N/D
+[*userStats_info
+Effective days played:<br><br>how many days that you've gained some GRACE points.
+[*
+
+[*user_faithGraph_noData
+When you gain some GRACE or FAITH points, you'll see here your progress chart.
+[*
+
+[*userSettings_denomCatholic
+catholic
+[*userSettings_denomProtestant
+protestant
+[*userSettings_selectDenomInfo
+On what you select depends the content of this website.
+The biggest difference, but not the only one, is the version of the Holy Bible that is being used.<br>Anyway, even if there are many versions of the Holy Bible, the central mesagge of God's Word is the same.
+[*
+
+[*userSelectDateFormat_content
+Choose date format:
+[*userSelectDateFormat_dmy
+day/month/year
+[*userSelectDateFormat_mdy
+month/day/year
+[*userSelectDateFormat_ymd
+year/month/day
+[*
+
+[*userSignUp_title
+SIGN UP
+[*userSignUp_signingUp
+Signing up...
+[*userSignUp_emailVerSent
+To complete the registration (and save your progress) go to your e-mail box and click on the link that we've sent you.<br><br>If you can't find it, try in the "spam" directory.
+[*
+
+[*errInvalidEmailFormat
+Invalid e-mail address!
+[*errPasswordTooShort
+The password is too short (min. 6 characters)!
+[*errPasswordsNotEqual
+The passwords are not equal!
+[*errSigningUp
+An error occured trying to sign up.
+[*errSigningUpEmailAlreadyInUse
+The email address is already in use by another account.
+[*errSendingEmailVer
+Error sending a verification e-mail!.
+[*
+
+[*signUpMetamask_title
+SIGN UP WITH "METAMASK"
+[*signUpMetamask_notPresent
+MetaMask not present...<br>Do you want to install it?"
+[*signUpMetamask_signingUp
+Signing up...
+[*signUpMetamask_userExists
+User already exists, trying to log in...
+[*signUpMetamask_acceptRequest
+Please accept the MetaMask's request.
+[*signUpMetamask_singingInError
+Sorry, couldn't signing in.
+[*signUpMetamask_verifyingError
+Błąd w weryfikacji!
+[*signUpMetamask_customTokenError
+"Custom token" error!
+[*
+
+[*logInMetamask_title
+LOG IN WITH "METAMASK"
+[*logInMetamask_loggingIn
+Logging in...
+[*logInMetamask_loggingInError
+Sorry, couldn't log in.
+[*
+
+[*logInTitle
+LOG IN
+[*loggingIn
+Logging in...
+[*errLoggingIn
+Your e-mail and the password do not match!
+[*errLoggingInTooManyRequests
+Too many requests, please try again in few minutes.
+[*resendEmailVerContent
+Should we send again a verification e-mail?
+[*
+
+[*userLogOut_content
+Are you sure you want to log out?
+[*
+
+[*newsTitleBig
+NEWS
+
+[*socialMediaTitle
+SOCIAL MEDIA
+[*
+
+[*donate_title
+DONATE
+[*donate_main
+Dear friend, you can use this website for free.<br>If you want to say 'Thank you' and to support this project you can do that here.<br><br>God bless you!
+[*donate_selectMethod
+Choose the payment method:
+[*donate_crypto_title
+Click on our public address to copy it to the clipboard:
+[*donate_crypto_addressCopied
+The public address has been copied to the clipboard!
+[*donate_crypto_content
+Send only BUSD (BEP20) on the Binance Smart Chain (BSC), please.<br><br>Thank you!
+[*
+
+[*EmailNotVerified
+E-mail not verified!
+[*

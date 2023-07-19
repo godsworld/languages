@@ -1,0 +1,17 @@
+[*name
+bibleAddedScoringSystem
+[*date
+20230630
+[*title
+Added the scoring system
+[*content
+Gain points of GRACE and FAITH, playing the games!
+
+[*name
+bibleGame2released
+[*date
+20230510
+[*title
+Added a second game: "Block the ball!"
+[*content
+Play to discover Today's Word!
