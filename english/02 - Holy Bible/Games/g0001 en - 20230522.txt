@@ -1,0 +1,44 @@
+*** GW_USER INTERFACE ***
+
+item: "bible_g0001_info_title"          caption: "HOW TO PLAY"
+item: "bible_g0001_info_ta_theGoal"     content: "Click on the letters to move them."
+item: "bible_g0001_info_ta_esc"         content: "Quit the game."
+item: "bible_g0001_info_ta_spacebar"    content: "Get some help."
+item: "bible_g0001_info_ta_backSpace"   content: "Remove last wrong letter."
+item: "bible_g0001_info_ta_useKeyboard" content: "If you play on a computer you can use the keyboard, as well."
+
+item: "bible_g0001_play_btnFinish" caption: "Finish"
+
+*** TRANSLATIONS ***
+
+// MENU
+[*book
+book
+
+[*chapter
+chapter
+
+[*difficulty
+difficulty
+[*difficultyEasy
+easy
+[*difficultyMedium
+medium
+[*difficultyHard
+hard
+[*
+
+[*goToContent
+After you've discovered Today's Word (playing the 2nd game) and you click on this button, the book and the chapter will be set to the place where you'll able to find the quote.
+[*settingsTitle
+NEW LETTERS' APPEARING SPEED
+[*
+
+// PLAY
+
+[*Quitting
+Abandon the game?<br>Your progress will not be saved.
+[*AllGuessedTitle
+CONGRATULATIONS
+[*AllGuessedContent
+You've read the whole chapter!
