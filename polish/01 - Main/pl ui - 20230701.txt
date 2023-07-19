@@ -1,0 +1,250 @@
+*** FILES ***
+
+[*fileNewsC
+pl news c - 20230630
+[*fileNewsP
+pl news p - 20230630
+[*fileHelpAbout
+_pl about - 20230602
+[*fileHelpUserInfo
+pl user information - 20230602
+[*fileHelpUserSettings
+pl user settings - 20230602
+[*fileHelpUserSignUp
+pl user sign up methods - 20230602
+[*fileHelpUserScoringSystem
+pl user scoring system - 20230602
+[*fileHelpDonate
+pl donations - 20230602
+[*fileHelpDonateInfo
+pl donations check out - 20230602
+[*
+
+*** USER INTERFACE ***
+
+image: "main_title" src: "gw main/img/lang/pl title - 20230601.png"
+
+item: "main_userDataLoading_ta" content: "Ładowanie danych użytkownika, proszę czekać..."
+
+item: "main_controlBox_abandonL" caption: "Powrót"
+item: "main_controlBox_abandon"  caption: "Powrót"
+item: "main_controlBox_close"    caption: "Zamknij"
+item: "main_controlBox_confirm"  caption: "Zatwierdź"
+item: "main_controlBox_gotIt"    caption: "Rozumiem"
+item: "main_controlBox_no"       caption: "Nie"
+item: "main_controlBox_ok"       caption: "Ok"
+item: "main_controlBox_prev"     caption: "Wstecz"
+item: "main_controlBox_proceed"  caption: "Dalej"
+item: "main_controlBox_yes"      caption: "Tak"
+
+item: "main_infoBox_btnGotIt" caption: "Rozumiem"
+item: "main_infoBox_btnClose" caption: "Zamknij"
+
+item: "main_userInfo_btnTitle"      caption: "Informacje o użytkowniku"
+item: "main_userInfo_notLoggedIn"   caption: "Użytkownik niezarejestrowany"
+item: "main_userInfo_notVerified"   caption: "E-mail użytkownika niezweryfikowana!"
+item: "main_userInfo_graceTitle"    caption: "ŁASKA"
+item: "main_userInfo_faithTitle"    caption: "WIARA"
+item: "main_userInfo_timeLeftTitle" caption: "CZAS"
+
+item: "main_userSettings_btnTitle"        caption: "Ustawienia"
+item: "main_userSettings_denomTitle"      caption: "Wersja serwisu:"
+item: "main_userSettings_dateFormatTitle" caption: "Format daty:"
+
+item: "main_menuLang_other" caption: "inne języki..."
+item: "main_menuLang_otherInfo_content" content: "Jeśli chcesz nam pomóc przetłumaczyć tą stronę na jakiś inny język obcy, prosimy skontaktuj się z:"
+item: "main_menuLang_otherInfo_link" info: "discord.gg/aM8GzwR4Rm"
+
+item: "main_menuLogIn_btnTitle"        caption: "Zarejestruj / zaloguj się"
+item: "main_menuLogIn_signUp"          caption: "Zarejestruj się"
+item: "main_menuLogIn_signUp_email"    caption: "Zarejestruj się poprzez e-mail"
+item: "main_menuLogIn_signUp_metamask" caption: "Zarejestruj się poprzez MetaMask"
+item: "main_menuLogIn_logIn"           caption: "Zaloguj się"
+item: "main_menuLogIn_logIn_email"     caption: "Zaloguj się poprzez e-mail"
+item: "main_menuLogIn_logIn_metamask"  caption: "Zaloguj się poprzez MetaMask"
+item: "main_menuLogIn_resendEmailVer"  caption: "E-mail potwierdzający"
+item: "main_menuLogIn_logOut"          caption: "Wyloguj się"
+item: "main_menuLogIn_back"            caption: "Powrót"
+
+item: "main_userFaithGraph_faith"  caption: "WIARA"
+item: "main_userFaithGraph_graceA" caption: "ŁASKA (gra 1)"
+item: "main_userFaithGraph_graceB" caption: "ŁASKA (gra 2)"
+
+item: "main_userSignUp_email"        caption: "Twój adres e-mail:" 
+item: "main_userSignUp_passw"        caption: "Wybierz hasło:"
+item: "main_userSignUp_passwConfirm" caption: "Potwierdź hasło:"
+item: "main_userSignUp_isShowPassw"  caption: "Pokaż hasła"
+
+item: "main_userLogIn_email"       caption: "Adres e-mail:" 
+item: "main_userLogIn_passw"       caption: "Hasło:"
+item: "main_userLogIn_isShowPassw" caption: "Pokaż hasło"
+
+item: "main_userSelectDenom_content" content: "[*centerV,center*]Wybierz wersję tego serwisu...<br><br>(możesz to zmienić w dowolnej chwili)"
+item: "main_userSelectDenom_rbCath"  caption: "Wersja katolicka"
+item: "main_userSelectDenom_rbProt"  caption: "Wersja protestancka"
+
+item: "main_menuInfo_socialMedia" caption: "Media społecznościowe"
+item: "main_menuInfo_donate"      caption: "Wesprzyj projekt"
+item: "main_menuInfo_about"       caption: "O projekcie"
+
+item: "main_socialMedia_ta_youtube"   content: "Zobacz krótką prezentację tej strony i inne użyteczne filmiki<br>(Włącz napisy po polsku)"
+item: "main_socialMedia_link_discord" info:    "discord.gg/aM8GzwR4Rm"
+item: "main_socialMedia_ta_discord"   content: "Skontaktuj się z autorami tego serwisu lub z innymi użytkownikami"
+
+redraw: "main_donate_selectMethod_btnCryptoTxt" caption: "Kryptowaluta"
+redraw: "main_donate_selectMethod_btnCryptoSubtitleTxt" caption: "zalecane"
+item: "main_donate_selectMethod_btnDonatedInfo" caption: "pokaż wpłaty"
+
+item: "main_donate_donatedInfo_title" caption: "Wpłacono:"
+item: "main_donate_donatedInfo_btnVerify" caption: "sprawdź"
+
+item:   "main_menuEnter_menu"           caption: "Wejdź"
+redraw: "main_menuEnter_guestTitle"     caption: "Wejdź bez rejestrowania się"
+redraw: "main_menuEnter_guestSubtitle"  caption: "Twoje postępy NIE zostaną zapisane"
+redraw: "main_menuEnter_emailTitle"     caption: "Zarejestruj się poprzez e-mail"
+redraw: "main_menuEnter_emailSubtitle"  caption: "Twoje postępy zostaną zapisane"
+redraw: "main_menuEnter_walletUptitle"  caption: "Zalecane"
+redraw: "main_menuEnter_walletTitle"    caption: "Zarejestruj się poprzez MetaMask"
+redraw: "main_menuEnter_walletSubtitle" caption: "Postępy zapisane. Całkowita anonimowość."
+item:   "main_menuEnter_back"           caption: "Powrót"
+
+
+*** TRANSLATIONS ***
+
+[*userMenu_user
+Użytkownik
+[*userInfo_startedToPlay
+Rozpoczęcie
+[*userInfo_daysPlayed
+Dni grane
+[*userInfo_faithMax
+Maksymalna WIARA
+[*
+
+[*userStats_dayStarted
+Rozpoczęto
+[*userStats_lastDayPlayed
+Ostatni dzień aktywny
+[*userStats_daysPlayed
+Ilości dni
+[*userStats_daysPlayedEffective
+Dni aktywne
+[*userStats_faithMax
+Maksymalna WIARA
+[*userStats_noData
+brak danych
+[*userStats_info
+Dni aktywne:<br><br>dni w których otrzymałeś punkty ŁASKI.
+[*
+
+[*user_faithGraph_noData
+Gdy zdobędziesz punkty ŁASKI i WIARY, będziesz tu mógł zobaczyć wykres twoich postępów.
+[*
+
+[*userSettings_denomCatholic
+katolicka
+[*userSettings_denomProtestant
+protestancka
+[*userSettings_selectDenomInfo
+Od Twojego wyboru zależy zawartość, którą zobaczysz na tej stronie.
+Głównie, ale nie tylko, chodzi tu o wersję Pisma Świętego.<br>Nawet jeśli są różne tłumaczenia Biblii, przesłanie Słowa Bożego w nich zawarte jest praktycznie to samo.
+[*
+
+[*userSelectDateFormat_content
+Wybierz format daty:
+[*userSelectDateFormat_dmy
+dzień/miesiąc/rok
+[*userSelectDateFormat_mdy
+miesiąc/dzień/rok
+[*userSelectDateFormat_ymd
+rok/miesiąc/dzień
+[*
+
+[*userSignUp_title
+REJESTRACJA
+[*userSignUp_signingUp
+Rejestracja w toku...
+[*userSignUp_emailVerSent
+Żeby dokończyć proces rejestracji (i żeby Twoje postępy zostały zapisane), sprawdź twoją skrzynkę e-mail i kliknij na link, który Ci wysłaliśmy.<br><br>Jeśli nie widzisz naszego e-mail'a spróbuj w zakladce: "poczta niechciana" (spam).
+[*
+
+[*errInvalidEmailFormat
+Nieprawidłowy format adresu e-mail!
+[*errPasswordTooShort
+Hasło zbyt krótkie (min. 6 znaków)!
+[*errPasswordsNotEqual
+Hasła nie są takie same!
+[*errSigningUp
+Wystąpił błąd w czasie rejestracji.
+[*errSigningUpEmailAlreadyInUse
+Ten adres e-mail jest już zarejestrowany.
+[*errSendingEmailVer
+Błąd w wysyłaniu e-mail'a weryfikującego!
+[*
+
+[*userSignUpMetamask_title
+REJESTRACJA POPRZEZ "METAMASK"
+[*signUpMetamask_notPresent
+MetaMask niewykryty...<br>Chcesz go zainstalować?"
+[*signUpMetamask_signingUp
+Rejestracja w toku...
+[*signUpMetamask_userExists
+Użytkownik już istnieje, logowanie...
+[*signUpMetamask_acceptRequest
+Zaakceptuj żądanie w oknie MetaMask.
+[*signUpMetamask_singingInError
+Niestety, nie można było dokończyć logowania.
+[*signUpMetamask_verifyingError
+Błąd podczas weryfikacji!
+[*signUpMetamask_customTokenError
+Błąd "custom token"!
+[*
+
+[*logInMetamask_title
+LOGOWANIE POPRZEZ "METAMASK"
+[*logInMetamask_loggingIn
+Logowanie...
+[*logInMetamask_loggingInError
+Niestety, niemożliwe jest zalogowanie się.
+[*
+
+[*logInTitle
+LOGOWANIE
+[*loggingIn
+Trwa logowanie...
+[*errLoggingIn
+Adres e-mail i hasło nie pasują!
+[*errLoggingInTooManyRequests
+Za dużo połączeń, proszę spróbować za kilka minut.
+[*resendEmailVerContent
+Wysłać jeszcze raz e-mail wyryfikujący?
+[*
+
+[*userLogOut_content
+Na pewno chcesz się wylogować?
+[*
+
+[*newsTitleBig
+NOWOŚCI
+
+[*socialMediaTitle
+MEDIA SPOŁECZNOŚCIOWE
+[*
+
+[*donate_title
+WESPRZYJ PROJEKT
+[*donate_main
+Drogi/a bracie/siostro, możesz korzystać z tego serwisu całkowicie za darmo.<br>Jeśli chcesz wyrazić swoją wdzięczność i pomóc w utrzymaniu i rozwoju tego projektu możesz to zrobić tutaj.<br><br>Bóg zapłać!"
+[*donate_selectMethod
+Wybierz sposób płatności:
+[*donate_crypto_title
+Kliknij na nasz adres publiczny, żeby skopiować go do schowka:
+[*donate_crypto_addressCopied
+Adres publiczny został skopiowany do schowka!
+[*donate_crypto_content
+Proszę wysyłać tylko BUSD (BEP20) na blockchainie Binance Smart Chain (BSC).<br><br>Bóg zapłać!
+[*
+
+[*EmailNotVerified
+Użytkownik niezweryfikowany!
+[*

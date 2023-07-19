@@ -1,0 +1,17 @@
+[*name
+bibleAddedScoringSystem
+[*date
+20230630
+[*title
+Dodany system punktów
+[*content
+Graj i zdobywaj punkty ŁASKI i WIARY!
+
+[*name
+bibleGame2released
+[*date
+20230510
+[*title
+Dodana druga gra: "Zablokuj piłkę!"
+[*content
+Graj, żeby odkryć Słowo Boże na dziś!
