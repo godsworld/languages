@@ -1,0 +1,111 @@
+﻿1
+00:00:00,320 --> 00:00:04,335
+Come installare MetaMask
+sullo smartphone/tablet?
+
+2
+00:00:04,413 --> 00:00:09,132
+Apri "Play Store" oppure "App Store"
+se usi iPhone/iPad
+
+3
+00:00:09,499 --> 00:00:12,458
+Nel campo "cerca"
+scrivi: "MetaMask"
+
+4
+00:00:16,645 --> 00:00:20,650
+Installa
+
+5
+00:00:20,675 --> 00:00:25,229
+e poi "Apri"
+
+6
+00:00:29,474 --> 00:00:33,216
+Clicca sul "Get started" (Inizia)
+
+7
+00:00:33,388 --> 00:00:38,723
+In questa guida scegliamo "Importa.."
+perchè vogliamo usare
+
+8
+00:00:38,748 --> 00:00:43,652
+lo stesso indirizzo pubblico
+come quello sul computer, vero? :)
+
+9
+00:00:43,840 --> 00:00:47,849
+Scrivi le 12 parole in inglese
+che hai ricevuto
+
+10
+00:00:47,874 --> 00:00:52,091
+installando MetaMask sul computer
+
+11
+00:00:52,404 --> 00:00:57,885
+Puoi scegliere "Enable..." (Permetti...)
+
+12
+00:00:59,903 --> 00:01:03,668
+"No, grazie"
+
+13
+00:01:04,169 --> 00:01:10,428
+Adesso vedi la stessa chiave pubblica
+come quella sul computer
+
+14
+00:01:12,154 --> 00:01:18,818
+Clicca sul "Browser"
+
+15
+00:01:19,834 --> 00:01:27,388
+Nello spazio in alto scrivi
+l'indirizzo del nostro sito:
+
+16
+00:01:27,444 --> 00:01:37,125
+www.god-s-world.net
+
+17
+00:01:44,256 --> 00:01:46,669
+"Invio" sulla tastiera
+
+18
+00:01:48,345 --> 00:01:56,785
+Clicca sul "Entra"
+e poi "Iscriviti con il MetaMask"
+
+19
+00:01:58,407 --> 00:02:02,689
+"Connect" (Connetti)
+
+20
+00:02:04,707 --> 00:02:08,986
+"Sign" (Firma)
+
+21
+00:02:11,427 --> 00:02:15,587
+Adesso a basso della pagina puoi
+vedere i primi e gli ultimi caratteri
+
+22
+00:02:15,612 --> 00:02:18,669
+della tua chiave pubblica
+
+23
+00:02:19,203 --> 00:02:23,875
+Qui lo stesso vedi in alto. D'ora in poi
+i tuoi progressi saranno salvati
+
+24
+00:02:24,219 --> 00:02:26,617
+Ce l'hai fatta, complimenti!
+
+25
+00:02:26,859 --> 00:02:28,843
+Buon divertimento!
+

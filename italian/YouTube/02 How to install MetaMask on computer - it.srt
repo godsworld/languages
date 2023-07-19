@@ -1,0 +1,125 @@
+﻿1
+00:00:00,001 --> 00:00:03,310
+Ecco una guida su come installare
+MetaMask sul computer
+
+2
+00:00:03,335 --> 00:00:09,179
+Nel nostro sito clicca sul "Entra"
+e poi sul "Iscriviti con il MetaMask"
+
+3
+00:00:11,711 --> 00:00:17,937
+"Add to Chrome" (Aggiungi al Chrome)
+--> "Aggiungi estensione"
+
+4
+00:00:29,322 --> 00:00:32,824
+"Create a new wallet"
+(Crea un nuovo portafoglio)
+
+5
+00:00:32,849 --> 00:00:35,338
+"I agree" (Sono d'accordo)
+
+6
+00:00:35,363 --> 00:00:41,080
+Crea Password
+che userai per accedere al MetaMask
+
+7
+00:00:41,105 --> 00:00:44,682
+Clicca sulla scritta "I understand that
+MetaMask..." (Capisco che il MetaMask...)
+
+8
+00:00:44,707 --> 00:00:47,232
+"Crea un nuovo portafoglio"
+
+9
+00:00:48,366 --> 00:00:52,554
+"Secure my wallet (recommended)"
+(Assicura il mio portafoglio (consigliato))
+
+10
+00:00:52,579 --> 00:00:55,653
+"Rivela Frase Seed"
+
+11
+00:00:56,591 --> 00:01:01,327
+Scrivi le 12 parole in inglese su un foglio
+e conservalo in un posto sicuro
+
+12
+00:01:01,352 --> 00:01:06,298
+È la tua "password" del portafoglio
+(non c'entra con quella del MetaMask)
+
+13
+00:01:06,323 --> 00:01:09,651
+Ti servirà nel caso avessi perso l'acceso
+al MetaMask
+
+14
+00:01:09,676 --> 00:01:12,789
+oppure se vuoi usare lo stesso indirizzo
+pubblico sul cellulare/tablet
+
+15
+00:01:12,871 --> 00:01:15,485
+"Avanti"
+
+16
+00:01:15,687 --> 00:01:23,385
+Conferma alcune delle parole
+che hai appena scritto
+
+17
+00:01:31,925 --> 00:01:34,357
+"Conferma"
+
+18
+00:01:35,767 --> 00:01:44,720
+"Got it!"  -->  "Avanti"  -->  "Finito"
+
+19
+00:01:45,095 --> 00:01:51,552
+In alto puoi vedere i primi e gli ultimi
+caratteri del tuo indirizzo pubblico
+
+20
+00:01:52,200 --> 00:01:58,309
+Torna al nostro sito e ricarica la pagina
+
+21
+00:01:59,224 --> 00:02:04,780
+"Entra"  -->
+"Iscriviti con il MetaMask"
+
+22
+00:02:05,361 --> 00:02:11,091
+"Avanti"  -->  "Connetti"
+
+23
+00:02:14,002 --> 00:02:18,728
+"Firma"
+
+24
+00:02:24,199 --> 00:02:28,476
+In basso a sinistra vedi
+una scritta verde:
+
+25
+00:02:28,501 --> 00:02:32,832
+sono i primi e gli ultimi caratteri
+della tua chiave pubblica
+
+26
+00:02:33,010 --> 00:02:37,937
+D'ora in poi i tuoi progressi saranno
+salvati nella database di questo sito
+
+27
+00:02:38,736 --> 00:02:42,789
+Buon divertimento! :-)
+
