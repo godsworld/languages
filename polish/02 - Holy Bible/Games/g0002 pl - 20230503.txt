@@ -1,0 +1,43 @@
+*** USER INTERFACE ***
+
+item: "bible_g0002_menu_quoteTitle"      caption: "Słowo na dziś:"
+item: "bible_g0002_menu_difficultyTitle" caption: "Poziom trudności:"
+item: "bible_g0002_menu_playTitle"       caption: "Graj!"
+
+item: "bible_g0002_info_title"        caption: "INFORMACJE"
+item: "bible_g0002_info_ta_theGoal"   content: "Cel gry:<br>Piłka musi zniszczyć wszystkie klocki z literami."
+item: "bible_g0002_info_ta_howToPlay" content: "Umieść te klocki na pustych polach, żeby zablokować piłkę. Kliknij na nie, żeby je usunąć."
+
+text: "bible_g0002_menu_quoteGuessed" font: "Times New Roman"
+text: "bible_g0002_showQuote_content" font: "Times New Roman"
+
+*** TRANSLATIONS ***
+
+// MENU
+
+[*menuPlayToDiscover
+Graj, żeby je odkryć!
+[*timeInfo
+Następne "Słowo na dziś" odnowi się za (godz.:min.):
+[*quoteCopiedToClipboard
+Cytat został skopiowany do schowka!
+[*
+
+// PLAY
+
+[*btnCopyExplanation
+Możesz skopiować "Słowo na dziś" do schowka klikając na ten przycisk:
+[*ClickAnywhereToStart
+Kliknij gdziekolwiek, żeby zacząć grę!
+[*GameOver
+Czas się skończył i nie ma więcej możliwości.<br><br>Chcesz zacząć wszystko od nowa?
+[*GuessLastCharGuide
+Spróbuj odgadnąć ostatnią literę słowa, które odkryłeś/aś.
+[*Quitting
+Na pewno chcesz wyjść?<br><br>Twój postęp nie będzie zapisany.
+[*TimeOut_manyAttempts
+Czas się skończył!<br>Masz jeszcze ** możliwości.<br><br>Chcesz spróbować jescze raz?
+[*TimeOut_oneAttempt
+Czas się skończył!<br>To twoja ostatnia szansa.<br><br>Chcesz spróbować jescze raz?
+[*TimeOut_noMoreAttempts
+Czas się skończył!<br><br>Chcesz spróbować odgadnąć cały cytat jeszcze raz?
