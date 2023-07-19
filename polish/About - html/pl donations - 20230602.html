@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1.0">
+        <title>God's World: wsparcie projektu</title>
+        <link href="../../css/styles - 20230602.css" type="text/css" rel="stylesheet">
+        <script src="../../js/jquery-3.7.0.min.js"></script> 
+        <script>$(function(){$("#includedHeader").load("pl%20header%20-%2020230602.html");});</script> 
+        <script>$(function(){$("#includedFooter").load("../../footer%20-%2020230602.html");});</script> 
+        <script>
+            function copyAddress() {
+              let TEXT = "Adres publiczny skopiowany do schowka";
+              let address = document.getElementById("address").innerHTML;
+              navigator.clipboard.writeText(address);              
+              alert(TEXT + ": " + address);
+            }
+        </script>
+    </head>
+    <body id="body">
+        <div id="includedHeader"></div>
+        <h2>WSPARCIE PROJEKTU</h2>
+        <h3>WESPRZYJ PROJEKT POPRZEZ KRYPTOWALUTĘ (zalecane)</h3>
+        <div>
+            Chociaż kryptowaluty nie są jeszcze powszechnie używane (także dlatego, że jest to trochę skomplikowane), jest kilka zalet, żeby wybrać właśnie ten sposób przesyłania pieniędzy ponad każdy inny.<br>
+            W tym projekcie preferujemy tę formę wspomagania projektu przynajmniej z dwóch powodów:<br><br>
+            1) przesłanie kryptowaluty z jednego adresu publicznego do drugiego (w świecie kryptowalut używa się terminu "adres publiczny": można go porównać do numeru konta bankowego, w tym przypadku jednakże nie ma informacji o imieniu lub nazwisku).<br>
+            2) przejrzystość: każdy może sprawdzić bilans lub przelewy dokonane do, lub z, adresu publicznego.<br><br>
+            Wśrów wielu dostępnych kryptowalut wybraliśmy właśnie tą, dlatego, że jako jedna z niewielu, jest ona typu "stable coin", czyli jej wartość nigdy się nie zmienia: jeden BUSD ma zawsze wartość jednego dolara amerykańskiego.<br><br>
+            Oto nasz adres publiczny:<br><br>
+            <span id="address">0xde87f4828528C059E861E2A2E96272D7baEba54e</span> <button class="btnCopyAddress" onclick="copyAddress()"><img src="../../img/btn copy.png" alt="copy" class="imgCopyAddress"></button><br><br>
+            Jeśli chcesz dowiedzieć się czegoś więcej o kryptowalutach, możesz obejrzeć jeden z wielu filmików na platformie YouTube:<br><br>
+            <a href="https://www.youtube.com/watch?v=DujQza6ROJI">Czym są kryptowaluty?</a><br><br>
+            - lub jeśli masz zamiar zamienić prawdziwe pieniądze na kryptowalutę (lub odwrotnie):<br><br>
+            <a href="https://www.youtube.com/watch?v=gUXl2FO9VMg">Binance instrukcja obsługi. Założenie konta i zakup kryptowalut.</a>
+        </div><br>
+        <h3>WESPRZYJ PROJEKT POPRZEZ USŁUGĘ PAYPAL</h3>
+        <div>
+            W tym przypadku wszystko jest bardzo proste.<br>
+            Po wybraniu opcji "PayPal" wpisz kwotę, a następnie wciśnij:<br><br>
+            - "Donate with PayPal", jeśli chcesz wysłać pieniądze poprzez konto PayPal.<br>
+            - "Donate with Debit or Credit Card" jeśli chcesz to zrobić używając Twojej karty debetowej lub kredytowej.
+        </div>
+        <div id="includedFooter"></div>
+    </body>
+</html>
