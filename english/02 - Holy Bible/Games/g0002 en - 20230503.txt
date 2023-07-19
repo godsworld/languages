@@ -1,0 +1,43 @@
+*** USER INTERFACE ***
+
+item: "bible_g0002_menu_quoteTitle"      caption: "Today's Word:"
+item: "bible_g0002_menu_difficultyTitle" caption: "Difficulty:"
+item: "bible_g0002_menu_playTitle"       caption: "Play!"
+
+item: "bible_g0002_info_title"        caption: "ABOUT THE GAME"
+item: "bible_g0002_info_ta_theGoal"   content: "The goal of the game:<br>The ball must destroy all the bricks with the letters."
+item: "bible_g0002_info_ta_howToPlay" content: "Put these bricks on empty spaces to block the ball, click on the bricks to remove them."
+
+text: "bible_g0002_menu_quoteGuessed" font: "Times New Roman"
+text: "bible_g0002_showQuote_content" font: "Times New Roman"
+
+*** TRANSLATIONS ***
+
+// MENU
+
+[*menuPlayToDiscover
+Play to discover it!
+[*timeInfo
+The next "Today's Word" will be renewed in (h:min):
+[*quoteCopiedToClipboard
+The quote has been copied to the clipboard!
+[*
+
+// PLAY
+
+[*ClickAnywhereToStart
+Click anywhere to start!
+[*GameOver
+Time is out and there are no more tries.<br>Do you want to try again to discover all the quotation?
+[*GuessLastCharGuide
+Try to guess the last letter of the word you've discovered.
+[*Quitting
+Abandon the game?<br><br>Your progress will not be saved.
+[*TimeOut_manyAttempts
+The time is out!<br>You can try ** more times.<br><br>Retry?
+[*TimeOut_oneAttempt
+The time is out!<br>This is your last chance.<br><br>Retry?
+[*TimeOut_noMoreAttempts
+The time is out!<br><br>Do you want to try to guess the whole quote again?
+[*btnCopyExplanation
+You can copy the Bible quote to the clipboard clicking on this button:
