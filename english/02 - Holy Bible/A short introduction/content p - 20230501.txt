@@ -1,0 +1,92 @@
+[*justify,auto-indent0.05*]The word [*c1*]Bible[*n*] is originated from an ancient greek term [*i*]βιβλία[*n*] biblìa, that means "books". In fact, a very long time ago, the books, that today's Bible is composed of, were separated books (and letters).
+
+The Holy Bible is composed of two main parts: [*b*]Old Testament[*n*] (contains 39 books) and [*b*]New Testament[*n*] (27 books).
+In the Old Testament we can find stories about the world's creation, first people on the earth, patriarchs, the story of the elected nation (Israel) and its profets, up to the coming of Jesus Christ.
+In the New Testament we can read about Jesus Christ, Son of God, and about the first people that believed in Him: the christians.
+
+The Holy Bible has about 40 different authors and it was completed after about 1500 years.
+
+[*b*]How to read the Holy Bible?[*n*]
+Of course you could simply read it from the first book (Genesis) to the last one (Revelation), but if you are new to the Holy Scripture and you're afraid to encounter some difficult passages (and there are many) simply read these few books, that are the most simple ones (and often the shortest) and there's no need to read the book before it, to understand the context:
+From Old Testament: Ruth (4 chapters), Jonah (4 chapters), Genesis (you could read only the first 11 chapters, then skip to the New Testament).
+From New Testament: Mark (it's the shortes of four Gospels: 16 chapters), then read Acts of Apostles (28 chapters).
+
+Every book of the Holy Bible is divided in chapters and verses, and usually one use an abbreviation to indicate a book, chapter or verse(s). So we can find:[*m*]
+[*left,auto-indent0.001*]
+[*mb*]Gn:[*m*]       Book of Genesis
+[*mb*]1 Sam 3:[*m*]  First book of Samuel, chapter 3
+[*mb*]Mk 5,3-9:[*m*] Gospel of Mark, chapter 5, verses from 3 to 9
+[*n*]
+Here are all the abbreviations:
+
+[*b*]OLD TESTAMENT
+
+[*mb*]Gn:[*m*]    Genesis
+[*mb*]Ex:[*m*]    Exodus
+[*mb*]Lv:[*m*]    Leviticus
+[*mb*]Nm:[*m*]    Numbers
+[*mb*]Dt:[*m*]    Deuteronomy
+[*mb*]Jos:[*m*]   Joshua
+[*mb*]Jgs:[*m*]   Judges
+[*mb*]Ru:[*m*]    Ruth
+[*mb*]1 Sm:[*m*]  1 Samuel
+[*mb*]2 Sm:[*m*]  2 Samuel
+[*mb*]1 Kgs:[*m*] 1 Kings
+[*mb*]2 Kgs:[*m*] 2 Kings
+[*mb*]1 Chr:[*m*] 1 Chronicles
+[*mb*]2 Chr:[*m*] 2 Chronicles
+[*mb*]Ezr:[*m*]   Ezra
+[*mb*]Neh:[*m*]   Nehemiah
+[*mb*]Est:[*m*]   Esther
+[*mb*]Jb:[*m*]    Job
+[*mb*]Ps:[*m*]    Psalms
+[*mb*]Prv:[*m*]   Proverbs
+[*mb*]Eccl:[*m*]  Ecclesiastes
+[*mb*]Sg:[*m*]    Song of Solomon
+[*mb*]Is:[*m*]    Isaiah
+[*mb*]Jer:[*m*]   Jeremiah
+[*mb*]Lam:[*m*]   Lamentations
+[*mb*]Ez:[*m*]    Ezekiel
+[*mb*]Dn:[*m*]    Daniel
+[*mb*]Hos:[*m*]   Hosea
+[*mb*]Jl:[*m*]    Joel
+[*mb*]Am:[*m*]    Amos
+[*mb*]Ob:[*m*]    Obadiah
+[*mb*]Jon:[*m*]   Jonah
+[*mb*]Mi:[*m*]    Micah
+[*mb*]Na:[*m*]    Nahum
+[*mb*]Hb:[*m*]    Habakkuk
+[*mb*]Zep:[*m*]   Zephaniah
+[*mb*]Ghg:[*m*]   Haggai
+[*mb*]Zec:[*m*]   Zechariah
+[*mb*]Mal:[*m*]   Malachi
+
+[*b*]NEW TESTAMENT
+
+[*mb*]Mt:[*m*]     Matthew
+[*mb*]Mk:[*m*]     Mark
+[*mb*]Lk:[*m*]     Luke
+[*mb*]Jn:[*m*]     John
+[*mb*]Acts:[*m*]   Acts of the Apostles
+[*mb*]Rom:[*m*]    Romans
+[*mb*]1 Cor:[*m*]  1 Corinthians
+[*mb*]2 Cor:[*m*]  2 Corinthians
+[*mb*]Gal:[*m*]    Galatians
+[*mb*]Eph:[*m*]    Ephesians
+[*mb*]Phil:[*m*]   Philippians
+[*mb*]Col:[*m*]    Colossians
+[*mb*]1 Thes:[*m*] 1 Thessalonians
+[*mb*]2 Thes:[*m*] 2 Thessalonians
+[*mb*]1 Tm:[*m*]   1 Timothy
+[*mb*]2 Tm:[*m*]   2 Timothy
+[*mb*]Ti:[*m*]     Titus
+[*mb*]Phlm:[*m*]   Philemon
+[*mb*]Heb:[*m*]    Hebrews
+[*mb*]Jas:[*m*]    James
+[*mb*]1 Pt:[*m*]   1 Peter
+[*mb*]2 Pt:[*m*]   2 Peter
+[*mb*]1 Jn:[*m*]   1 John
+[*mb*]2 Jn:[*m*]   2 John
+[*mb*]3 Jn:[*m*]   3 John
+[*mb*]Jude:[*m*]   Jude
+[*mb*]Rv:[*m*]     Revelation
