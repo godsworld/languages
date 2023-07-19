@@ -1,0 +1,1023 @@
+*** GW_USER INTERFACE ***
+
+image: "bible_btnBibleIntro" src: "gw bible/img/bible intro/pl - 20230501.png"
+image: "bible_btnHolyBible"  src: "gw bible/img/holy bible/pl - 20230501.jpg"
+image: "bible_btnBibleAtlas" src: "gw bible/img/bible atlas/pl - 20230501.jpg"
+
+item: "bible_menuSelectBibleBook_title" caption: "WYBIERZ KSIĘGĘ"
+item: "bible_menuSelectChapter_title"   caption: "WYBIERZ ROZDZIAŁ"
+
+item: "bible_controlBox_abandonL" caption: "Powrót"
+item: "bible_controlBox_abandon"  caption: "Powrót"
+item: "bible_controlBox_close"    caption: "Zamknij"
+item: "bible_controlBox_confirm"  caption: "Zatwierdź"
+item: "bible_controlBox_gotIt"    caption: "Rozumiem"
+item: "bible_controlBox_no"       caption: "Nie"
+item: "bible_controlBox_ok"       caption: "Ok"
+item: "bible_controlBox_prev"     caption: "Wstecz"
+item: "bible_controlBox_proceed"  caption: "Dalej"
+item: "bible_controlBox_yes"      caption: "Tak"
+
+text: "bible_desktopPlay_gameTitle"            caption: "gra:"
+text: "bible_desktopPlay_gameDiscoverTitle"    caption: "odkryj:"
+
+text: "bible_desktopPlay_gameCaption1"         caption: "ODGADNIJ SŁOWA"
+text: "bible_desktopPlay_gameDiscoverCaption1" caption: "Jeden z rozdziałów Pisma Św."
+
+text: "bible_desktopPlay_gameCaption2"         caption: "ZABLOKUJ PIŁKĘ"
+text: "bible_desktopPlay_gameDiscoverCaption2" caption: "Słowo Boże na dziś"
+
+
+*** TRANSLATIONS ***
+
+[*UserNotLoggedIn
+Użytkownik niezarajestrowany
+[*UserNotVerified
+Użytkownik niezweryfikowany
+[*
+
+[*PLAY_TO_DISCOVER!
+GRAJ, ŻEBY ODKRYĆ!
+[*
+
+[*hintSwitchReadPlay
+Kliknij tutaj, żeby przemieścić się między dwoma menu: CZYTAJ / GRAJ.
+[*
+
+// *** HOLY BIBLE ***
+
+[*OldTestament
+STARY TESTAMENT
+
+[*NewTestament
+NOWY TESTAMENT
+
+[*Chapter
+Rozdział
+
+[*bookGn
+Rdz
+[*bookGnF
+Księga Rodzaju
+
+[*bookEx
+Wj
+[*bookExF
+Księga Wyjścia
+
+[*bookLv
+Kpł
+[*bookLvF
+Księga Kapłańska
+
+[*bookNm
+Lb
+[*bookNmF
+Księga Liczb 
+
+[*bookDt
+Pwt
+[*bookDtF
+Księga Powtórzonego Prawa
+
+[*bookJos
+Joz
+[*bookJosF
+Księga Jozuego
+
+[*bookJgs
+Sdz
+[*bookJgsF
+Księga Sędziów
+
+[*bookRu
+Rt
+[*bookRuF
+Księga Rut
+
+[*book1Sm
+1 Sm
+[*book1SmF
+1 Księga Samuela
+
+[*book2Sm
+2 Sm
+[*book2SmF
+2 Księga Samuela
+
+[*book1Kgs
+1 Krl
+[*book1KgsF
+1 Księga Królewska
+
+[*book2Kgs
+2 Krl
+[*book2KgsF
+2 Księga Królewska
+
+[*book1Chr
+1 Krn
+[*book1ChrF
+1 Księga Kronik
+
+[*book2Chr
+2 Krn
+[*book2ChrF
+2 Księga Kronik
+
+[*bookEzr
+Ezd
+[*bookEzrF
+Księga Ezdrasza
+
+[*bookNeh
+Ne
+[*bookNehF
+Księga Nehemiasza
+
+[*bookTb
+Tb
+[*bookTbF
+Księga Tobiasza
+
+[*bookJdt
+Jdt
+[*bookJdtF
+Księga Judyty
+
+[*bookEst
+Est
+[*bookEstF
+Księga Estery
+
+[*book1Mc
+1 Mch
+[*book1McF
+1 Księga Machabejska
+
+[*book2Mc
+2 Mch
+[*book2McF
+2 Księga Machabejska
+
+[*bookJb
+Hi
+[*bookJbF
+Księga Hioba
+
+[*bookPs
+Ps
+[*bookPsF
+Księga Psalmów
+[*bookPsSingular
+Psalm
+
+[*bookPrv
+Prz
+[*bookPrvF
+Księga Przysłów
+
+[*bookEccl
+Koh
+[*bookEcclF
+Księga Koheleta
+
+[*bookSg
+Pnp
+[*bookSgF
+Pieśń nad Pieśniami
+
+[*bookWs
+Mdr
+[*bookWsF
+Księga Mądrości
+
+[*bookSir
+Syr
+[*bookSirF
+Mądrość Syracha
+
+[*bookIs
+Iz
+[*bookIsF
+Księga Izajasza
+
+[*bookJer
+Jr
+[*bookJerF
+Księga Jeremiasza
+
+[*bookLam
+Lm
+[*bookLamF
+Lamentacje
+
+[*bookBar
+Ba
+[*bookBarF
+Księga Barucha
+
+[*bookEz
+Ez
+[*bookEzF
+Księga Ezechiela
+
+[*bookDn
+Dn
+[*bookDnF
+Księga Daniela
+
+[*bookHos
+Oz
+[*bookHosF
+Księga Ozeasza
+
+[*bookJl
+Jl
+[*bookJlF
+Księga Joela
+
+[*bookAm
+Am
+[*bookAmF
+Księga Amosa
+
+[*bookOb
+Ab
+[*bookObF
+Księga Abdiasza
+
+[*bookJon
+Jon
+[*bookJonF
+Księga Jonasza
+
+[*bookMi
+Mi
+[*bookMiF
+Księga Micheasza
+
+[*bookNa
+Na
+[*bookNaF
+Księga Nahuma
+
+[*bookHb
+Ha
+[*bookHbF
+Księga Habakuka
+
+[*bookZep
+So
+[*bookZepF
+Księga Sofoniasza
+
+[*bookGhg
+Ag
+[*bookGhgF
+Księga Aggeusza
+
+[*bookZec
+Za
+[*bookZecF
+Księga Zachariasza
+
+[*bookMal
+Ml
+[*bookMalF
+Księga Malachiasza
+
+[*bookMt
+Mt
+[*bookMtF
+Ewangelia według św. Mateusza
+
+[*bookMk
+Mk
+[*bookMkF
+Ewangelia według św. Marka
+
+[*bookLk
+Łk
+[*bookLkF
+Ewangelia według św. Łukasza
+
+[*bookJn
+J
+[*bookJnF
+Ewangelia według św. Jana
+
+[*bookActs
+Dz
+[*bookActsF
+Dzieje Apostolskie
+
+[*bookRom
+Rz
+[*bookRomF
+List do Rzymian
+
+[*book1Cor
+1 Kor
+[*book1CorF
+1 List do Koryntian
+
+[*book2Cor
+2 Kor
+[*book2CorF
+2 List do Koryntian
+
+[*bookGal
+Ga
+[*bookGalF
+List do Galatów
+
+[*bookEph
+Ef
+[*bookEphF
+List do Efezjan
+
+[*bookPhil
+Flp
+[*bookPhilF
+List do Filipian
+
+[*bookCol
+Kol
+[*bookColF
+List do Kolosan
+
+[*book1Thes
+1 Tes
+[*book1ThesF
+1 List do Tesaloniczan
+
+[*book2Thes
+2 Tes
+[*book2ThesF
+2 List do Tesaloniczan
+
+[*book1Tm
+1 Tm
+[*book1TmF
+1 List do Tymoteusza
+
+[*book2Tm
+2 Tm
+[*book2TmF
+2 List do Tymoteusza
+
+[*bookTi
+Tt
+[*bookTiF
+List do Tytusa
+
+[*bookPhlm
+Flm
+[*bookPhlmF
+List do Filemona
+
+[*bookHeb
+Hbr
+[*bookHebF
+List do Hebrajczyków
+
+[*bookJas
+Jk
+[*bookJasF
+List św. Jakuba
+
+[*book1Pt
+1 P
+[*book1PtF
+1 List św. Piotra
+
+[*book2Pt
+2 P
+[*book2PtF
+2 List św. Piotra
+
+[*book1Jn
+1 J
+[*book1JnF
+1 List św. Jana
+
+[*book2Jn
+2 J
+[*book2JnF
+2 List św. Jana
+
+[*book3Jn
+3 J
+[*book3JnF
+3 List św. Jana
+
+[*bookJude
+Jud
+[*bookJudeF
+List św. Judy
+
+[*bookRv
+Ap
+[*bookRvF
+Apokalipsa św. Jana
+[*
+
+
+// *** MAPS ***
+
+    // MAPS' NAMES
+
+[*Abraham's times
+Czasy Abrahama
+
+[*Israel's tribes
+Pokolenia Izraela
+
+[*Israel at the time of Jesus
+Izrael w czasach Jezusa Chrystusa
+
+[*Paul's 1st journey
+Pierwsza podróż św. Pawła
+
+[*Paul's 2nd journey
+Druga podróż św. Pawła
+
+[*Paul's 3rd journey
+Trzecia podróż św. Pawła
+
+[*Paul's journey to Rome
+Ostatnia podróż św. Pawła, do Rzymu
+[*
+
+    // MOUNTAINS
+
+[*Mt. Sinai
+Góra Synaj
+[*
+
+    // SEAS, LAKES AND RIVERS
+
+[*BLACK SEA
+MORZE CZARNE
+
+[*DEAD SEA
+MORZE MARTWE
+
+[*Euphrates River
+Eufrat
+
+[*Jordan River
+Jordan
+
+[*MEDITERRANEAN SEA
+MORZE ŚRÓDZIEMNE
+
+[*Nile River
+Nil
+
+[*Tigris River
+Tygrys
+
+[*Sea of Galilee
+Jezioro Galilejskie
+[*
+
+    // ISLANDS
+
+[*CAUDA
+CAUDA
+
+[*CHIOS
+CHIOS
+
+[*COS
+KOS
+
+[*CRETE
+KRETA
+
+[*CYPRUS
+CYPR
+
+[*MALTA
+MALTA
+
+[*PATMOS
+PATMOS
+
+[*RHODES
+RODI
+
+[*SAMOS
+SAMOS
+
+[*SICILY
+SYCYLIA
+[*
+
+    // ISRAEL'S TRIBES
+
+[*ASHER
+ASZER
+
+[*BENJAMIN
+BENIAMIN
+
+[*DAN
+DAN
+
+[*EDOM
+EDOM
+
+[*EPHRAIM
+EFRAIM
+
+[*philistie
+filistyni
+
+[*GAD
+GAD
+
+[*JUDAH
+JUDA
+
+[*ISSACHAR
+IZACHAR
+
+[*MANASSEH EAST
+MANASSES EST
+
+[*MANASSEH WEST
+MANASSES OVEST
+
+[*MOAB
+MOAB
+
+[*NEPHTALI
+NEFTALI
+
+[*REUBEN
+RUBEN
+
+[*SIMEON
+SYMEON
+
+[*ZEBULUN
+ZABULON
+[*
+
+    // REGIONS
+
+[*ACCAD
+AKAD
+
+[*ACHAIA
+ACHAJA
+
+[*ARABIA
+ARABIA
+
+[*ASIA
+AZJA MNIEJSZA
+
+[*ASSYRIA
+ASYRJA
+
+[*BITHYNIA
+BITYNIA
+
+[*CAPPADOCIA
+KAPADOCJA
+
+[*CHALDEA
+CHALDEA
+
+[*CILICIA
+CYLICJA
+
+[*DECAPOLIS
+DEKAPOLIS
+
+[*EGYPT
+EGIPT
+
+[*ELAM
+ELAM
+
+[*GALATIA
+GALACJA
+
+[*GALILEE
+GALILEA
+
+[*GREECE
+GRECJA
+
+[*IDUMEA
+IDUMEA
+
+[*ITALY
+WŁOCHY
+
+[*JUDEA
+JUDEA
+
+[*LYCIA
+LICJA
+
+[*MACEDONIA
+MACEDONIA
+
+[*MESOPOTAMIA
+MEZOPOTAMIA
+
+[*MYSIA
+MYZJA
+
+[*PAMPHYLIA
+PANFILIA
+
+[*PEREA
+PEREA
+
+[*PHOENIX
+FENIKS
+
+[*PHRYGIA
+FRYGIA
+
+[*PISIDIA
+PIZYDIA
+
+[*PONTUS
+PONT
+
+[*SAMARIA
+SAMARIA
+
+[*SYRIA
+SYRIA
+
+[*SUMER
+SUMER
+[*
+
+    // CITIES
+
+[*Adramyttium
+Adramyttium
+
+[*Aleppo
+Aleppo
+
+[*Amphipolis
+Anfipoli
+
+[*Antioch
+Antiochia
+
+[*Antioch of Pisidia
+Antiochia Pizydyjska
+
+[*Antipatris
+Antipatris
+
+[*Apollonia
+Apollonia
+
+[*Ashdod
+Aszdod
+
+[*Asshur
+Assur
+
+[*Assos
+Aso
+
+[*Athens
+Ateny
+
+[*Attalia
+Attalia
+
+[*Babylon
+Babilonia
+
+[*Babylonia
+Babilonia
+
+[*Beersheba
+Beer-Szeba
+
+[*Berea
+Berea
+
+[*Bethany
+Betania
+
+[*Bethel
+Betel
+
+[*Bethlehem
+Betlejem
+
+[*Bethphage
+Betfage
+
+[*Bethsaida
+Betsaida
+
+[*Bathsheba
+Betszeba
+
+[*Byblos
+Byblos
+
+[*Caesarea
+Cezarea
+
+[*Caesarea Philippi
+Cezarea Filipowa
+
+[*Cana
+Kana
+
+[*Capernaum
+Kafarnaum
+
+[*Carran
+Carran
+
+[*Cenchreae
+Cenchreae
+
+[*Cnidus
+Cnidus
+
+[*Colossae
+Kolosy
+
+[*Corinth
+Korynt
+
+[*Cyrene
+Cyrena
+
+[*Damascus
+Damaszek
+
+[*Derbe
+Derby
+
+[*Emmaus
+Emaus
+
+[*Ephesus
+Efez
+
+[*Fair Havens
+Dobre Porty
+
+[*Gaza
+Gaza
+
+[*Haran
+Haran
+
+[*Iconium
+Ikonium
+
+[*Jericho
+Jerycho
+
+[*Jerusalem
+Jeruzalem
+
+[*Joppa
+Jafa
+
+[*Korazin
+Korazin
+
+[*Laodicea
+Laodycea
+
+[*Lasea
+Lasea
+
+[*Lystra
+Listra
+
+[*Magadan
+Magadan
+
+[*Forum of Appius
+Forum Appiusza
+
+[*Mari
+Mari
+
+[*Memphis
+Mempfis
+
+[*Miletus
+Milet
+
+[*Mitylene
+Mitylen
+
+[*Myra
+Myra
+
+[*Nain
+Nain
+
+[*Nazareth
+Nazaret
+
+[*Neapolis
+Neapol
+
+[*Nicopolis
+Nikopolis
+
+[*Nineveh
+Niniwa
+
+[*Nippur
+Nippur
+
+[*On
+On
+
+[*Paphos
+Pafos
+
+[*Patara
+Patara
+
+[*Perga
+Perga
+
+[*Pergamum
+Pergamum
+
+[*Philadelphia
+Filadelfia
+
+[*Philippi
+Filippi
+
+[*Phoenix
+Feniks
+
+[*Ptolemais
+Ptolemais
+
+[*Puteoli
+Puteoli
+
+[*Rhegium
+Rhegium
+
+[*Rome
+Rzym
+
+[*Salamis
+Salamina
+
+[*Salmone
+Salmone
+
+[*Sardis
+Sardes
+
+[*Samothrace
+Samotraka
+
+[*Seleucia
+Seleucja
+
+[*Shechem
+Sychem
+
+[*Sidon
+Sydon
+
+[*Smyrna
+Smyrna
+
+[*Susa
+Suza
+
+[*Sychar
+Sychar
+
+[*Syracuse
+Syrakuzy
+
+[*Tarsus
+Tars
+
+[*Thessalonica
+Tesaloniki
+
+[*Three Taverns
+Trzy Tawerny
+
+[*Thyatira
+Tiatyra
+
+[*Troas
+Troas
+
+[*Tyre
+Tyr
+
+[*Ugarit
+Ugarit
+
+[*Ur
+Ur
+
+[*Zarephath
+Sarepta
+
+[*Zoan
+Zoan
+
+[*booksFileNames
+c gn - 20230501
+c ex - 20230501
+c lv - 20230501
+c nm - 20230501
+c dt - 20230501
+c jos - 20230501
+c jgs - 20230501
+c ru - 20230501
+c 1sm - 20230501
+c 2sm - 20230501
+c 1kgs - 20230501
+c 2kgs - 20230501
+c 1chr - 20230501
+c 2chr - 20230501
+c ezr - 20230501
+c neh - 20230501
+c tb - 20230501
+c jdt - 20230501
+c est - 20230501
+c 1mc - 20230501
+c 2mc - 20230501
+c jb - 20230501
+c ps - 20230501
+c prv - 20230501
+c eccl - 20230501
+c sg - 20230501
+c ws - 20230501
+c sir - 20230501
+c is - 20230501
+c jer - 20230501
+c lam - 20230501
+c bar - 20230501
+c ez - 20230501
+c dn - 20230501
+c hos - 20230501
+c jl - 20230501
+c am - 20230501
+c ob - 20230501
+c jon - 20230501
+c mi - 20230501
+c na - 20230501
+c hb - 20230501
+c zep - 20230501
+c ghg - 20230501
+c zec - 20230501
+c mal - 20230501
+c mt - 20230501
+c mk - 20230501
+c lk - 20230501
+c jn - 20230501
+c acts - 20230501
+c rom - 20230501
+c 1cor - 20230501
+c 2cor - 20230501
+c gal - 20230501
+c eph - 20230501
+c phil - 20230501
+c col - 20230501
+c 1thes - 20230501
+c 2thes - 20230501
+c 1tm - 20230501
+c 2tm - 20230501
+c ti - 20230501
+c phlm - 20230501
+c heb - 20230501
+c jas - 20230501
+c 1pt - 20230501
+c 2pt - 20230501
+c 1jn - 20230501
+c 2jn - 20230501
+c 3jn - 20230501
+c jude - 20230501
+c rv - 20230501
