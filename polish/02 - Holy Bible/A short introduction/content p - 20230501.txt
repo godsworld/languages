@@ -1,0 +1,92 @@
+[*justify,auto-indent0.05*]Termin [*c1*]Biblia[*n*] pochodzi od greckiego słowa [*i*]βιβλία[*n*] biblia, i oznacza "księgi". W starożytności bowiem księgi natchnione, które teraz mamy zebrane w jednym wolumie, były przechowywane i czytane oddzielnie.
+
+Pismo Święte jest podzielone na dwie główne części: [*b*]Stary Testament[*n*] (39 ksiąg) i [*b*]Nowy Testament[*n*] (27 ksiąg).
+Stary Testament opowiada o stworzeniu świata, o pierwszych ludziach, przedstawia nam historię patriarchów, narodu wybranego (Izrael), oraz królów i proroków, aż do czasów Jezusa.
+W Nowym Testamencie natomiast jest zawarte to co powiedział i uczynił Jezus Chrystus, Syn Boży. Przeczytać można w nim także o losach Apostołów i pierwszych chrześcijan.
+
+Bibliści wyszczególniają około 40 autorów Pisma Świętego, ktorego poszczególne części były pisane przez około 1500 lat.
+
+[*b*]Jak czytać Pismo Święte?[*n*]
+Oczywiście można by zacząć lekturę od pierwszej księgi (księga Rodzaju) i zakończyć na ostatniej (Apokalipsa Św. Jana), lecz jeśli to jest Twój pierwszy kontakt ze Słowem Bożym, lepiej zacząć od najprostszych do zrozumienia ksiąg (i w niejednym przypadku najkrótszych), i które to nie potrzebują przeczytania tego co jest napisane wcześniej, żeby zrozumieć ich znaczenie:
+Ze Starego Testamentu: Księga Rut (4 rozdziały), Księga Jonasza (4 rozdziały), Księga Rodzaju (po przeczytaniu pierwszych 11 rozdziałów możesz przejść do Nowego Testamentu).
+Z Nowego Testamentu: Ewangelia według świętego Marka (najkrótsza z wszystkich czterech Ewangelii: 16 rozdziałów), i zaraz po niej: Dzieje Apostolskie (28 rozdziałów).
+
+Każda księga Pisma Świętego jest podzielona na rozdziały i wersety, i nierzadko używa się skrótów, żeby się do nich odnieść. Oto kilka przykładów[*m*]
+[*left,auto-indent0.001*]
+[*mb*]Rdz:[*m*]      Księga Rodzaju
+[*mb*]1 Sam 3:[*m*]  Pierwsza księga Samuela, rozdział trzeci
+[*mb*]Mk 5,3-9:[*m*] Ewangelia Marka, rozdział piąty, wersety od trzeciego do dziewiątego
+[*n*]
+Spis wszystkich skrótów:
+
+[*b*]STARY TESTAMENT
+
+[*mb*]Rdz:[*m*]   Księga Rodzaju
+[*mb*]Wj:[*m*]    Księga Wyjścia
+[*mb*]Kpł:[*m*]   Księga Kapłańska
+[*mb*]Lb:[*m*]    Księga Liczb 
+[*mb*]Pwt:[*m*]   Księga Powtórzonego Prawa
+[*mb*]Joz:[*m*]   Księga Jozuego
+[*mb*]Sdz:[*m*]   Księga Sędziów
+[*mb*]Rt:[*m*]    Księga Rut
+[*mb*]1 Sm:[*m*]  1 Księga Samuela
+[*mb*]2 Sm:[*m*]  2 Księga Samuela
+[*mb*]1 Krl:[*m*] 1 Księga Królewska
+[*mb*]2 Krl:[*m*] 2 Księga Królewska
+[*mb*]1 Krn:[*m*] 1 Księga Kronik
+[*mb*]2 Krn:[*m*] 2 Księga Kronik
+[*mb*]Ezd:[*m*]   Księga Ezdrasza
+[*mb*]Ne:[*m*]    Księga Nehemiasza
+[*mb*]Est:[*m*]   Księga Estery
+[*mb*]Hi:[*m*]    Księga Hioba
+[*mb*]Ps:[*m*]    Księga Psalmów
+[*mb*]Prz:[*m*]   Księga Przysłów
+[*mb*]Koh:[*m*]   Księga Koheleta
+[*mb*]Pnp:[*m*]   Pieśń nad Pieśniami
+[*mb*]Iz:[*m*]    Księga Izajasza
+[*mb*]Jr:[*m*]    Księga Jeremiasza
+[*mb*]Lm:[*m*]    Lamentacje
+[*mb*]Ez:[*m*]    Księga Ezechiela
+[*mb*]Dn:[*m*]    Księga Daniela
+[*mb*]Oz:[*m*]    Księga Ozeasza
+[*mb*]Jl:[*m*]    Księga Joela
+[*mb*]Am:[*m*]    Księga Amosa
+[*mb*]Ab:[*m*]    Księga Abdiasza
+[*mb*]Jon:[*m*]   Księga Jonasza
+[*mb*]Mi:[*m*]    Księga Micheasza
+[*mb*]Na:[*m*]    Księga Nahuma
+[*mb*]Ha:[*m*]    Księga Habakuka
+[*mb*]So:[*m*]    Księga Sofoniasza
+[*mb*]Ag:[*m*]    Księga Aggeusza
+[*mb*]Za:[*m*]    Księga Zachariasza
+[*mb*]Ml:[*m*]    Księga Malachiasza
+
+[*b*]NOWY TESTAMENT
+
+[*mb*]Mt:[*m*]    Ewangelia Mateusza
+[*mb*]Mk:[*m*]    Ewangelia Marka
+[*mb*]Łk:[*m*]    Ewangelia Łukasza
+[*mb*]J:[*m*]     Ewangelia Jana
+[*mb*]Dz:[*m*]    Dzieje Apostolskie
+[*mb*]Rz:[*m*]    List do Rzymian
+[*mb*]1 Kor:[*m*] 1 List do Koryntian
+[*mb*]2 Kor:[*m*] 2 List do Koryntian
+[*mb*]Ga:[*m*]    List do Galatów
+[*mb*]Ef:[*m*]    List do Efezjan
+[*mb*]Flp:[*m*]   List do Filipian
+[*mb*]Kol:[*m*]   List do Kolosan
+[*mb*]1 Tes:[*m*] 1 List do Tesaloniczan
+[*mb*]2 Tes:[*m*] 2 List do Tesaloniczan
+[*mb*]1 Tm:[*m*]  1 List do Tymoteusza
+[*mb*]2 Tm:[*m*]  2 List do Tymoteusza
+[*mb*]Tt:[*m*]    List do Tytusa
+[*mb*]Flm:[*m*]   List do Filemona
+[*mb*]Hbr:[*m*]   List do Hebrajczyków
+[*mb*]Jk:[*m*]    List Jakuba
+[*mb*]1 P:[*m*]   1 List Piotra
+[*mb*]2 P:[*m*]   2 List Piotra
+[*mb*]1 J:[*m*]   1 List Jana
+[*mb*]2 J:[*m*]   2 List Jana
+[*mb*]3 J:[*m*]   3 List Jana
+[*mb*]Jud:[*m*]   List Judy
+[*mb*]Ap:[*m*]    Apokalipsa
