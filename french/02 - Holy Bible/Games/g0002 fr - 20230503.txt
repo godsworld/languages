@@ -1,0 +1,43 @@
+*** USER INTERFACE ***
+
+item: "bible_g0002_menu_quoteTitle"      caption: "Mot du jour:"
+item: "bible_g0002_menu_difficultyTitle" caption: "Difficulté:"
+item: "bible_g0002_menu_playTitle"       caption: "Jouer!"
+
+item: "bible_g0002_info_title"        caption: "INSTRUCTIONS"
+item: "bible_g0002_info_ta_theGoal"   content: "Le but du jeu:<br>La balle doit détruire toutes les briques avec des lettres."
+item: "bible_g0002_info_ta_howToPlay" content: "Placez ces briques sur des flans pour bloquer la balle. Cliquez dessus pour les supprimer."
+
+text: "bible_g0002_menu_quoteGuessed" font: "Times New Roman"
+text: "bible_g0002_showQuote_content" font: "Times New Roman"
+
+*** TRANSLATIONS ***
+
+// MENU
+
+[*menuPlayToDiscover
+Jouez pour découvrir!
+[*timeInfo
+Le prochain « mot du jour » sera renouvelé en: (heures:minutes):
+[*quoteCopiedToClipboard
+La citation copiée dans le presse-papiers!
+[*
+
+// PLAY
+
+[*ClickAnywhereToStart
+Cliquez où vous voulez commencer!
+[*GameOver
+Le temps est écoulé et il n’y a pas d’autres preuves.<br>Vous voulez recommencer?
+[*GuessLastCharGuide
+Essayez de deviner la dernière lettre du mot que vous venez de découvrir.
+[*Quitting
+Êtes-vous sûr de vouloir sortir?<br><br>Votre progression ne sera pas sauvegardée.
+[*TimeOut_manyAttempts
+Le temps est écoulé!<br>Vous avez encore ** options.<br><br>Vous voulez réessayer?
+[*TimeOut_oneAttempt
+Le temps est écoulé!<br>C’est votre dernière chance.<br><br>Vous voulez réessayer?
+[*TimeOut_noMoreAttempts
+Le temps est écoulé!<br><br>Voulez-vous essayer à nouveau de découvrir à nouveau la Parole du jour?
+[*btnCopyExplanation
+Vous pouvez copier cette citation dans le presse-papiers en cliquant sur ce bouton:
