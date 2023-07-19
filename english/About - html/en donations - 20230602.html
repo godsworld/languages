@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1.0">
+        <title>God's World: donations</title>
+        <link href="../../css/styles - 20230602.css" type="text/css" rel="stylesheet">
+        <script src="../../js/jquery-3.7.0.min.js"></script> 
+        <script>$(function(){$("#includedHeader").load("en%20header%20-%2020230602.html");});</script> 
+        <script>$(function(){$("#includedFooter").load("../../footer%20-%2020230602.html");});</script> 
+        <script>
+            function copyAddress() {
+              let TEXT = "Address copied to clipboard";
+              let address = document.getElementById("address").innerHTML;
+              navigator.clipboard.writeText(address);              
+              alert(TEXT + ": " + address);
+            }
+        </script>
+    </head>
+    <body id="body">
+        <div id="includedHeader"></div>
+        <h2>DONATIONS</h2>
+        <h3>DONATE CRYPTOCURRENCY (recommended)</h3>
+        <div>
+            Even if the cryptocurrencies aren't used widely, yet, and the uasage is somewhat complicated, there are some important advantages over usual forms of payment. There are at least two reasons that we prefer to use them on our website:<br><br>
+            1) fees: sending the cryptocurrency from one public address to another is very cheap (the public addresses are similar to the bank accounts, except there are no first names or surnames being used, so their owners remain anonymous).<br>
+            2) transparency: everyone can verify the balance or transactions of any public address.<br><br>
+            For our project we've chosen the BUSD cryptocurrency, because this is one of the very few "stable coins", so it never loses its value: one BUSD is always equal to one american dollar.<br><br>
+            Our public address is:<br><br>
+            <span id="address">0xde87f4828528C059E861E2A2E96272D7baEba54e</span> <button class="btnCopyAddress" onclick="copyAddress()"><img src="../../img/btn copy.png" alt="copy" class="imgCopyAddress"></button><br><br>
+            To know more about the cryptocurrencies you might want to watch one of these YouTube videos:<br><br>
+            <a href="https://www.youtube.com/watch?v=1YyAzVmP9xQ">Cryptocurrency In 5 Minutes</a><br>
+            <a href="https://www.youtube.com/watch?v=kHybf1aC-jE">What is a Blockchain?</a><br><br>
+            How to create an account on Binance exchange (necessary for exchanging cryptocurrency/fiat currency (euro, dollar, etc....):<br><br>
+            <a href="https://www.youtube.com/watch?v=DBkvdlAlNDY">Binance Tutorial For Beginners 2023</a><br><br>
+        </div>
+        <h3>DONATE VIA PAYPAL</h3>
+        <div>
+            This way of donating is very easy to use.<br>
+            After you've clicked on "PayPal" button in the "Donate" section of our website, type in the amount, then select "Donate with PayPal", if you want to do it through a PayPal account, otherwise select: "Donate with Debit or Credit Card".
+        </div>
+        <div id="includedFooter"></div>
+    </body>
+</html>
