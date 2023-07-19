@@ -1,0 +1,44 @@
+*** GW_USER INTERFACE ***
+
+item: "bible_g0001_info_title"          caption: "INSTRUCTIONS"
+item: "bible_g0001_info_ta_theGoal"     content: "Cliquez sur les lettres pour les déplacer."
+item: "bible_g0001_info_ta_esc"         content: "Sortez du jeu."
+item: "bible_g0001_info_ta_spacebar"    content: "Obtenez de l’aide."
+item: "bible_g0001_info_ta_backSpace"   content: "Supprimez la dernière lettre erronée."
+item: "bible_g0001_info_ta_useKeyboard" content: "Si vous jouez sur votre ordinateur, vous pouvez également utiliser le clavier."
+
+item: "bible_g0001_play_btnFinish" caption: "Finit"
+
+*** TRANSLATIONS ***
+
+// MENU
+[*book
+livre
+
+[*chapter
+chapitre
+
+[*difficulty
+difficulté
+[*difficultyEasy
+facile
+[*difficultyMedium
+moyenne
+[*difficultyHard
+difficile
+[*
+
+[*goToContent
+Lorsque vous avez découvert le mot du jour (jouer au deuxième jeu), en cliquant sur ce bouton, le numéro du livre et du chapitre sera modifié afin d’indiquer la chanson trouver la citation.
+[*settingsTitle
+VITESSE D’APPARITION DES NOUVELLES LETTRES
+[*
+
+// PLAY
+
+[*Quitting
+Êtes-vous sûr de vouloir sortir?<br>Votre progression ne sera pas sauvegardée.
+[*AllGuessedTitle
+FÉLICITATIONS
+[*AllGuessedContent
+Vous avez lu tout le chapitre!
