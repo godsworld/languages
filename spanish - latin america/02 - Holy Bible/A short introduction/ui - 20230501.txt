@@ -1,0 +1,4 @@
+
+// GW_USER INTERFACE
+
+image: "bible_bookBibleIntro_coverF" src: "gw bible/img/bible intro/it - 20230501.png"
