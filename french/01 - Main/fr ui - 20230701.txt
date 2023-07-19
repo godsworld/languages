@@ -1,0 +1,252 @@
+*** FILES ***
+
+[*fileNewsC
+fr news c - 20230630
+[*fileNewsP
+fr news p - 20230630
+[*fileHelpAbout
+_fr about - 20230602
+[*fileHelpUserInfo
+fr user information - 20230602
+[*fileHelpUserSettings
+fr user settings - 20230602
+[*fileHelpUserSignUp
+fr user sign up methods - 20230602
+[*fileHelpUserScoringSystem
+fr user scoring system - 20230602
+[*fileHelpDonate
+fr donations - 20230602
+[*fileHelpDonateInfo
+fr donations check out - 20230602
+[*
+
+*** USER INTERFACE ***
+
+image: "main_title" src: "gw main/img/lang/fr title - 20230701.png"
+
+item: "main_userDataLoading_ta" content: "Chargement des données utilisateur..."
+
+item: "main_controlBox_abandonL" caption: "Abandonne"
+item: "main_controlBox_abandon"  caption: "Abandonne"
+item: "main_controlBox_close"    caption: "Fermer"
+item: "main_controlBox_confirm"  caption: "Confirmation"
+item: "main_controlBox_gotIt"    caption: "Compris"
+item: "main_controlBox_no"       caption: "Non"
+item: "main_controlBox_ok"       caption: "D’accord"
+item: "main_controlBox_prev"     caption: "Précédent"
+item: "main_controlBox_proceed"  caption: "Prochain"
+item: "main_controlBox_yes"      caption: "Oui"
+
+item: "main_infoBox_btnGotIt" caption: "Compris"
+item: "main_infoBox_btnClose" caption: "Fermer"
+
+item: "main_userInfo_btnTitle"      caption: "Informations sur l’utilisateur"
+item: "main_userInfo_notLoggedIn"   caption: "Utilisateur non enregistré"
+item: "main_userInfo_notVerified"   caption: "E-mail non vérifié!"
+item: "main_userInfo_graceTitle"    caption: "GRÂCE"
+item: "main_userInfo_faithTitle"    caption: "FOI"
+item: "main_userInfo_timeLeftTitle" caption: "HEURE"
+
+item: "main_userSettings_btnTitle"        caption: "Paramètres"
+item: "main_userSettings_denomTitle"      caption: "Version du site Web:"
+item: "main_userSettings_dateFormatTitle" caption: "Format de date:"
+
+item: "main_menuLang_other" caption: "autres langues..."
+item: "main_menuLang_otherInfo_content" content: "Si vous souhaitez parfaire cette traduction, veuillez contacter:"
+item: "main_menuLang_otherInfo_link" info: "discord.gg/tFfBGMafnk"
+
+item: "main_menuLogIn_btnTitle"        caption: "Inscription / Connexion"
+item: "main_menuLogIn_signUp"          caption: "Inscription"
+item: "main_menuLogIn_signUp_email"    caption: "Inscrivez-vous avec un e-mail"
+item: "main_menuLogIn_signUp_metamask" caption: "Inscrivez-vous avec MetaMask"
+item: "main_menuLogIn_logIn"           caption: "Connexion"
+item: "main_menuLogIn_logIn_email"     caption: "Connectez-vous avec un email!"
+item: "main_menuLogIn_logIn_metamask"  caption: "Connectez-vous avec un MetaMask"
+item: "main_menuLogIn_resendEmailVer"  caption: "E-mail de vérification"
+item: "main_menuLogIn_logOut"          caption: "Déconnecter"
+item: "main_menuLogIn_back"            caption: "Précédent"
+
+item: "main_userFaithGraph_faith"  caption: "FOI"
+item: "main_userFaithGraph_graceA" caption: "GRÂCE (Le jeu 1)"
+item: "main_userFaithGraph_graceB" caption: "GRÂCE (Le jeu 2)"
+
+item: "main_userSignUp_email"        caption: "Votre adresse e-mail:" 
+item: "main_userSignUp_passw"        caption: "Choisissez un mot de passe:"
+item: "main_userSignUp_passwConfirm" caption: "Confirmez votre mot de passe:"
+item: "main_userSignUp_isShowPassw"  caption: "Afficher les mots de passe"
+
+item: "main_userLogIn_email"       caption: "Votre adresse e-mail:" 
+item: "main_userLogIn_passw"       caption: "Votre mot de passe:"
+item: "main_userLogIn_isShowPassw" caption: "Montrez votre mot de passe"
+
+item: "main_userSelectDenom_content" content: "[*centerV,center*]Choisissez la version de ce site...<br><br>(Vous pouvez le changer quand vous voulez)"
+item: "main_userSelectDenom_rbCath"  caption: "Version catholique"
+item: "main_userSelectDenom_rbProt"  caption: "Version protestante"
+
+item: "main_menuInfo_socialMedia" caption: "Médias sociaux"
+item: "main_menuInfo_donate"      caption: "Contribuer"
+item: "main_menuInfo_about"       caption: "Information"
+
+item: "main_socialMedia_ta_youtube"   content: "Regardez une courte présentation de ce projet et d’autres vidéos utiles"
+item: "main_socialMedia_link_discord" info:    "discord.gg/tFfBGMafnk"
+item: "main_socialMedia_ta_discord"   content: "Entrez en contact avec les auteurs du site ou avec d’autres utilisateurs"
+
+redraw: "main_donate_selectMethod_btnCryptoTxt" caption: "Crypto-monnaie"
+redraw: "main_donate_selectMethod_btnCryptoSubtitleTxt" caption: "Conseillé"
+item: "main_donate_selectMethod_btnDonatedInfo" caption: "Montrez vos dons"
+
+item: "main_donate_donatedInfo_title" caption: "Crypto donnée:"
+item: "main_donate_donatedInfo_btnVerify" caption: "Vérifiez"
+
+item:   "main_menuEnter_menu"           caption: "Entrer"
+redraw: "main_menuEnter_guestTitle"     caption: "Entrez sans vous inscrire"
+redraw: "main_menuEnter_guestSubtitle"  caption: "Votre progression ne sera PAS sauvegardée"
+redraw: "main_menuEnter_emailTitle"     caption: "Inscrivez-vous avec une adresse e-mail"
+redraw: "main_menuEnter_emailSubtitle"  caption: "Votre progression sera sauvegardée"
+redraw: "main_menuEnter_walletUptitle"  caption: "Conseillé"
+redraw: "main_menuEnter_walletTitle"    caption: "Inscrivez-vous avec MetaMask"
+redraw: "main_menuEnter_walletSubtitle" caption: "Les progrès seront sauvegardés. Confidentialité maximale."
+item:   "main_menuEnter_back"           caption: "Précédent"
+
+
+*** TRANSLATIONS ***
+
+[*userMenu_user
+Utilisateur
+[*userInfo_startedToPlay
+Commencement
+[*userInfo_daysPlayed
+Jours joués
+[*userInfo_faithMax
+Maximum de FOI
+[*
+
+[*userStats_dayStarted
+Commencé le
+[*userStats_lastDayPlayed
+Le dernier jour joué:
+[*userStats_daysPlayed
+Nombre total de jours
+[*userStats_daysPlayedEffective
+Jours actifs
+[*userStats_faithMax
+Maximum de FOI
+[*userStats_noData
+---
+[*userStats_info
+Jours actifs:<br><br>jours au cours desquels vous avez gagné des points GRÂCE.
+[*
+
+[*user_faithGraph_noData
+Lorsque vous avez gagné des points GRÂCE et des points FOI, vous pouvez voir vos progrès ici.
+[*
+
+[*userSettings_denomCatholic
+catholique
+[*userSettings_denomProtestant
+protestant
+[*userSettings_selectDenomInfo
+De votre choix dépend le contenu que vous verrez sur ce site.
+Principalement, mais pas seulement, c’est la traduction de la Bible qui est utilisée.<br>Bien qu’il existe différentes versions de la Sainte Bible, le message central de la Parole de Dieu reste essentiellement le même.
+[*
+
+[*userSelectDateFormat_content
+Choisissez le format de date:
+[*userSelectDateFormat_dmy
+jour/mois/année
+[*userSelectDateFormat_mdy
+mois/jour/année
+[*userSelectDateFormat_ymd
+année/mois/jour
+[*
+
+[*userSignUp_title
+INSCRIPTION
+[*userSignUp_signingUp
+Inscription...
+[*userSignUp_emailVerSent
+Pour terminer l’inscription (et pour que votre progression soit sauvegardée), cliquez sur le lien dans l’e-mail que nous vous avons envoyé.<br><br>Si par hasard vous ne le trouvez pas, essayez dans le dossier « junk » (spam).
+[*
+
+[*errInvalidEmailFormat
+Adresse e-mail non valide!
+[*errPasswordTooShort
+Le mot de passe est trop court (min. 6 caractères)!
+[*errPasswordsNotEqual
+Les deux mots de passe ne sont pas les mêmes!
+[*errSigningUp
+Il n’est pas possible de s’inscrire.
+[*errSigningUpEmailAlreadyInUse
+L’adresse e-mail que vous utilisez déjà.
+[*errSendingEmailVer
+L’e-mail de vérification ne peut pas être envoyé!
+[*
+
+[*signUpMetamask_title
+ENREGISTREMENT AVEC LE « METAMASK »
+[*signUpMetamask_notPresent
+MetaMask non révélé...<br>Voulez-vous l’installer?"
+[*signUpMetamask_signingUp
+Inscription...
+[*signUpMetamask_userExists
+L’utilisateur est déjà enregistré, en connexion...
+[*signUpMetamask_acceptRequest
+Acceptez la demande dans la fenêtre MetaMask, s’il vous plaît.
+[*signUpMetamask_singingInError
+Désolé, vous ne parvenez pas à vous connecter.
+[*signUpMetamask_verifyingError
+Erreur lors de la vérification!
+[*signUpMetamask_customTokenError
+Erreur "custom token"!
+[*
+
+[*logInMetamask_title
+ACCÈS AVEC "METAMASK"
+[*logInMetamask_loggingIn
+Accéder...
+[*logInMetamask_loggingInError
+Désolé, vous ne parvenez pas à vous connecter.
+[*
+
+[*logInTitle
+ACCÈS
+[*loggingIn
+Connexion...
+[*errLoggingIn
+L’adresse e-mail et le mot de passe ne correspondent pas!
+[*errLoggingInTooManyRequests
+Trop d’accès dans la dernière heure, veuillez réessayer dans quelques minutes. 
+[*
+
+[*resendEmailVerContent
+Renvoyer un e-mail de vérification?
+[*
+
+[*userLogOut_content
+Êtes-vous sûr de vouloir vous déconnecter?
+[*
+
+[*newsTitleBig
+NOUVELLES
+
+[*socialMediaTitle
+MÉDIAS SOCIAUX
+[*
+
+[*donate_title
+CONTRIBUER
+[*donate_main
+Cher frère / sœur, vous pouvez utiliser ce site gratuitement. Si vous voulez nous dire « Merci » et contribuer à la maintenance et au développement de ce projet, vous pouvez le faire ici.<br><br>Que le Seigneur vous récompense!
+[*donate_selectMethod
+Choisissez votre mode de paiement:
+[*donate_crypto_title
+Cliquez sur notre adresse publique pour la copier dans le presse-papiers:
+[*donate_crypto_addressCopied
+L’adresse a été copiée dans le presse-papiers!
+[*donate_crypto_content
+N’envoyez BUSD (BEP20) que sur la blockchain Binance (Binance Smart Chain), s’il vous plaît.<br><br>Que le Seigneur vous récompense!
+[*
+
+[*EmailNotVerified
+E-mail non vérifié!
+[*
