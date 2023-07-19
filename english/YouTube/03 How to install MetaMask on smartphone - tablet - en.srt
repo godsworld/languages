@@ -1,0 +1,107 @@
+﻿1
+00:00:00,320 --> 00:00:04,335
+How to install MetaMask
+on smartphone/tablet?
+
+2
+00:00:04,413 --> 00:00:09,132
+Open "Play Store"
+or "App Store" if you have an iPhone/iPad
+
+3
+00:00:09,499 --> 00:00:12,458
+In the search bar look for
+"MetaMask"
+
+4
+00:00:16,645 --> 00:00:20,650
+Install it
+
+5
+00:00:20,675 --> 00:00:25,229
+then open it
+
+6
+00:00:29,474 --> 00:00:33,216
+Click on "Get started"
+
+7
+00:00:33,388 --> 00:00:38,723
+In this guide we select "Import..."
+because we want to have
+
+8
+00:00:38,748 --> 00:00:43,652
+the same public address like
+on computer, right? :)
+
+9
+00:00:43,840 --> 00:00:47,849
+Type in your secret phrase,
+that you've received
+
+10
+00:00:47,874 --> 00:00:52,091
+installing MetaMask on computer
+
+11
+00:00:52,404 --> 00:00:57,885
+You can select "Enable..."
+
+12
+00:00:59,903 --> 00:01:03,668
+No tour, thanks
+
+13
+00:01:04,169 --> 00:01:10,428
+Now you can see tha same public key
+like the one on your computer
+
+14
+00:01:12,154 --> 00:01:18,818
+Click on "Browser"
+
+15
+00:01:19,834 --> 00:01:27,388
+Then in the address field
+type in our website's address:
+
+16
+00:01:27,413 --> 00:01:37,094
+www.god-s-world.net
+
+17
+00:01:48,345 --> 00:01:56,024
+Click on "Enter",
+then "Sign up with MetaMask"
+
+18
+00:01:58,407 --> 00:02:02,689
+"Connect"
+
+19
+00:02:04,707 --> 00:02:08,986
+"Sign"
+
+20
+00:02:11,427 --> 00:02:15,587
+Now, at the bottom of the page
+you can see the first and the last chars
+
+21
+00:02:15,612 --> 00:02:18,669
+of your public key
+
+22
+00:02:19,203 --> 00:02:23,875
+The same you can see at the top
+From now on your progress will be saved
+
+23
+00:02:24,219 --> 00:02:26,617
+Congratulations!
+
+24
+00:02:26,859 --> 00:02:28,843
+Have fun!
+
